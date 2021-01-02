@@ -43,7 +43,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [RStudio](https://rstudio.com/) - IDE for R language (**Open Source**).
     - [Spyder](https://www.spyder-ide.org/) - Scientific Python IDE (**Open Source**).
     - [SciLab](https://www.scilab.org/) - Software for numerical computation (**Open Source**).
-    - [SciDAVis](http://scidavis.sourceforge.net/) - Scientific data analysis and visualization.
+    - [SciDAVis](http://scidavis.sourceforge.net/) - Scientific data analysis and visualization (**Open Source**).
     - [Wolfram Mathematica](https://www.wolfram.com/mathematica/) - Technical calculations (**EULA / Commercial**).
     - [MATLAB](https://www.mathworks.com/products/matlab.html) - Mathematics and graphics for engineers and scientists (**EULA / Commercial**).
     - [OriginLab](https://www.originlab.com/) - Graphing and data analysis (**EULA / Commercial**).
@@ -55,10 +55,12 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 ## Data Storage
 *Storages for scientific data.*
 
-- [figshare](https://figshare.com/) - Store for research content.
-- [MariaDB](https://mariadb.org/) - Relational database.
-- [MySQL](https://www.mysql.com/) - Relational database.
-- [PostgreSQL](https://www.postgresql.org/) - Relational database.
+- Repositories
+    - [figshare](https://figshare.com/) - Store for research content.
+- Databases
+    - [MariaDB](https://mariadb.org/) - Relational database.
+    - [MySQL](https://www.mysql.com/) - Relational database.
+    - [PostgreSQL](https://www.postgresql.org/) - Relational database.
 
 ## Project Management
 *Scientific projects management.*
@@ -97,5 +99,5 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [CiteSeerX](http://citeseerx.ist.psu.edu/) - Search engine for scientific and academic papers.
     - [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - Citations for biomedical literature.
     - [Semantic Scholar](https://www.semanticscholar.org/) - Scientific literature search engine.
-    - [Sci-Hub](https://sci-hub.do/) - Shadow library website with access to research papers ([warning](https://en.wikipedia.org/wiki/Shadow_library)).
     - [PeerLibrary](https://peerlibrary.org/) - Search engine for academic publications and people.
+    - [Sci-Hub](https://sci-hub.do/) - Shadow library website with access to research papers ([warning](https://en.wikipedia.org/wiki/Shadow_library)).

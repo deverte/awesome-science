@@ -5,15 +5,24 @@ A currated list of awesome scientific software, libraries and services.
 Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 
 ---
-- [MOOCs](#moocs)
-- [Services](#services)
-- [Archives](#archives)
-- [Literature Management](#literature-management)
-- [Social](#social)
-- [Project Management](#project-management)
-- [Data Storage](#data-storage)
-- [Data Processing](#data-processing)
-- [Publishing](#publishing)
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [Awesome Science](#awesome-science)
+  - [MOOCs](#moocs)
+  - [Services](#services)
+  - [Archives](#archives)
+  - [Literature Management](#literature-management)
+  - [Social](#social)
+  - [Project Management](#project-management)
+  - [Data Storage](#data-storage)
+  - [Data Processing](#data-processing)
+  - [Writing](#writing)
+  - [Publishing](#publishing)
+- [Contributing](#contributing)
+
+<!-- /code_chunk_output -->
 ---
 
 ## MOOCs
@@ -73,12 +82,13 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 *Scientific projects management.*
 
 - [GitHub](https://github.com/) - Hosting for IT projects and version control. Can be used for general purpose projects (including scientific) via [Github Issues and Github Projects](https://github.com/features/project-management/).
+- [Notion](https://www.notion.so/) - Note taking, wiki and project management application.
 
 ## Data Storage
 *Storages for scientific data.*
 
 - Repositories
-    - [figshare](https://figshare.com/) - Store for research content.
+    - [figshare](https://figshare.com/) - Storage for research content.
 - Databases
     - [MariaDB](https://mariadb.org/) - Relational database.
     - [MySQL](https://www.mysql.com/) - Relational database.
@@ -92,7 +102,6 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [R](https://www.r-project.org/) - Statistical computing and graphics.
     - [Julia](https://julialang.org/) - Language for mathematical computations with high performance.
     - [C++](https://isocpp.org/) - General purpose language with high performance.
-    - [GNU Octave](https://www.gnu.org/software/octave/index) - Mathematics-oriented language with visualization tools.
 - Libraries
     - [SciPy](https://www.scipy.org/) - Ecosystem for mathematics, science and engineering based on Python.
     - [statsmodels](https://www.statsmodels.org/) - Python module for statistical models.
@@ -104,9 +113,11 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [JupyterLab / Jupyter Notebook](https://jupyter.org/) - Interactive documents with live code, equations and visualization for [many languages](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels).
     - [ROOT](https://root.cern.ch/) - Data analysis framework for C++.
 - IDE / CAS
-    - [Orange](https://orange.biolab.si/) - Data mining tools (**Open Source**).
     - [RStudio](https://rstudio.com/) - IDE for R language (**Open Source**).
+    - [Google Colaboratory](https://colab.research.google.com/) - Python code in browser with access to GPU and TPU.
     - [Spyder](https://www.spyder-ide.org/) - Scientific Python IDE (**Open Source**).
+    - [Orange](https://orange.biolab.si/) - Data mining tools (**Open Source**).
+    - [GNU Octave](https://www.gnu.org/software/octave/index) - Mathematics-oriented language and IDE with visualization tools (**Open Source**).
     - [SciLab](https://www.scilab.org/) - Software for numerical computation (**Open Source**).
     - [SciDAVis](http://scidavis.sourceforge.net/) - Scientific data analysis and visualization (**Open Source**).
     - [Wolfram Mathematica](https://www.wolfram.com/mathematica/) - Technical calculations (**EULA / Commercial**).
@@ -115,9 +126,32 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [LabVIEW](https://www.ni.com/ru-ru/shop/labview.html) - Visual programming IDE for engineers (**EULA / Commercial**).
     - [Mathcad](https://www.mathcad.com/en/) - Math software for engineering (**EULA / Commercial**).
     - [Microsoft Power BI](https://powerbi.microsoft.com/) - Data visualization (**EULA / Commercial**).
+    - [Google Docs](https://docs.google.com/document/?usp=mkt_docs) - Online office with spreadsheet (**EULA / Free**).
     - [Microsoft Excel](https://www.microsoft.com/microsoft-365/excel) - Spreadsheet with calculations, graphing and macro programming (**EULA / Commercial**).
+
+## Writing
+*Instruments for article writing.*
+
+- [Markdown](https://daringfireball.net/projects/markdown/) - Lightweight markup language and text-to-HTML conversion tool. Some converters are supporting LaTeX math, diagrams and so on.
+- Visual Studio Code
+    - [VSCodium](https://vscodium.com/) - High extensible text editor based on *Visual Studio Code* (**Open Source**).
+    - [Visual Studio Code](https://code.visualstudio.com/) - High extensible text editor  (**Open Source**).
+    - [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/) - Powerful markdown extension for *Atom* and *Visual Studio Code* with LaTeX math, diagrams and etc. support (**Open Source**).
+- Atom
+    - [Atom](https://atom.io/) - High extensible text editor built on Electron framework (**Open Source**).
+    - [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/) - Powerful markdown extension for *Atom* and *Visual Studio Code* with LaTeX math, diagrams and etc. support (**Open Source**).
+- [LibreOffice](https://www.libreoffice.org/) - Office package with WYSWYG text processor based on *Apache OpenOffice* (**Open Source**).
+- [Apache OpenOffice](http://www.openoffice.org/) - Office package with WYSWYG text processor (**Open Source**).
+- [ONLYOFFICE](https://www.onlyoffice.com/) - Office almost fully compatible with *Microsoft Office* (**Open Source**).
+- [Google Docs](https://docs.google.com/document/?usp=mkt_docs) - Online office with word processor (**EULA / Free**).
+- [Microsoft Word](https://www.microsoft.com/ru-ru/microsoft-365/word) - WYSWYG text processor (**EULA / Commercial**).
 
 ## Publishing
 *Preparing a text for publication.*
 
 - [LaTeX](https://www.latex-project.org/) - De facto standard for the publication of scientific documents.
+
+# Contributing
+Your assistance will be very helpful. Let's build *awesome-science* together!
+
+For contributing you can write to project's [Issues](https://github.com/deverte/awesome-science/issues) or to [Discord](https://discord.gg/Fc9u6yEzRH) chat.

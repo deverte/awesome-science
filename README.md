@@ -81,8 +81,14 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 ## Project Management
 *Scientific projects management.*
 
-- [GitHub](https://github.com/) - Hosting for IT projects and version control. Can be used for general purpose projects (including scientific) via [Github Issues and Github Projects](https://github.com/features/project-management/).
-- [Notion](https://www.notion.so/) - Note taking, wiki and project management application.
+- Communication
+    - [Discord](https://discord.com/) - Instant messaging and VoIP (**EULA / Free**).
+    - [Element.io](https://element.io/) - Cross-platform messenger based on Matrix protocol (**Open Source**).
+    - [Freenode](http://freenode.net/) - IRC-network (**Open Source**).
+    - [Telegram Messenger](https://telegram.org/) - Instant messaging application (**Open Source** (clients), **Proprietary** (server)).
+- Project Management / Wiki
+    - [GitHub](https://github.com/) - Hosting for IT projects and version control. Can be used for general purpose projects (including scientific) via [Github Issues and Github Projects](https://github.com/features/project-management/).
+    - [Notion](https://www.notion.so/) - Note taking, wiki and project management application.
 
 ## Data Storage
 *Storages for scientific data.*

@@ -89,6 +89,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 - Project Management / Wiki
     - [GitHub](https://github.com/) - Hosting for IT projects and version control. Can be used for general purpose projects (including scientific) via [Github Issues and Github Projects](https://github.com/features/project-management/).
     - [Notion](https://www.notion.so/) - Note taking, wiki and project management application.
+    - [Trello](https://trello.com/) - Project management with kanban boards.
 
 ## Data Storage
 *Storages for scientific data.*
@@ -122,6 +123,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [RStudio](https://rstudio.com/) - IDE for R language (**Open Source**).
     - [Google Colaboratory](https://colab.research.google.com/) - Python code in browser with access to GPU and TPU.
     - [Spyder](https://www.spyder-ide.org/) - Scientific Python IDE (**Open Source**).
+    - [Juno](https://junolab.org/) - Julia IDE based on Atom text editor (**Open Source**).
     - [Orange](https://orange.biolab.si/) - Data mining tools (**Open Source**).
     - [GNU Octave](https://www.gnu.org/software/octave/index) - Mathematics-oriented language and IDE with visualization tools (**Open Source**).
     - [SciLab](https://www.scilab.org/) - Software for numerical computation (**Open Source**).
@@ -138,19 +140,29 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 ## Writing
 *Instruments for article writing.*
 
-- [Markdown](https://daringfireball.net/projects/markdown/) - Lightweight markup language and text-to-HTML conversion tool. Some converters are supporting LaTeX math, diagrams and so on.
-- Visual Studio Code
-    - [VSCodium](https://vscodium.com/) - High extensible text editor based on *Visual Studio Code* (**Open Source**).
-    - [Visual Studio Code](https://code.visualstudio.com/) - High extensible text editor  (**Open Source**).
-    - [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/) - Powerful markdown extension for *Atom* and *Visual Studio Code* with LaTeX math, diagrams and etc. support (**Open Source**).
-- Atom
+- Formats
+    - [Markdown](https://daringfireball.net/projects/markdown/) - Lightweight markup language and text-to-HTML conversion tool. Some converters are supporting LaTeX math, diagrams and so on.
+    - [AsciiDoc](https://asciidoc.org/) - Text document format for writing articles, books. Supports AsciiMath, MathML and LaTeX formulas.
+    - [reStructuredText](https://docutils.sourceforge.io/rst.html) - Plaintext markup syntax and parser system (natively supports LaTeX math).
+    - [Jupyter Notebook](https://jupyter.org/) - Interactive documents with live code, equations and visualization for [many languages](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels).
+    - [R Markdown](https://rmarkdown.rstudio.com/) - Dynamic documents for R language and more.
+    - Converters
+        - [Pandoc](https://pandoc.org/) - Markup formats converter.
+        - [Docutils](https://docutils.sourceforge.io/index.html) - Plaintext processor.
+- Programs
+    - Visual Studio Code
+        - [VSCodium](https://vscodium.com/) - High extensible text editor based on *Visual Studio Code* (**Open Source**).
+        - [Visual Studio Code](https://code.visualstudio.com/) - High extensible text editor  (**Open Source**).
+        - Plugins
+            - [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/) - Powerful markdown extension for *Atom* and *Visual Studio Code* with LaTeX math, diagrams and etc. support (**Open Source**).
     - [Atom](https://atom.io/) - High extensible text editor built on Electron framework (**Open Source**).
-    - [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/) - Powerful markdown extension for *Atom* and *Visual Studio Code* with LaTeX math, diagrams and etc. support (**Open Source**).
-- [LibreOffice](https://www.libreoffice.org/) - Office package with WYSWYG text processor based on *Apache OpenOffice* (**Open Source**).
-- [Apache OpenOffice](http://www.openoffice.org/) - Office package with WYSWYG text processor (**Open Source**).
-- [ONLYOFFICE](https://www.onlyoffice.com/) - Office almost fully compatible with *Microsoft Office* (**Open Source**).
-- [Google Docs](https://docs.google.com/document/?usp=mkt_docs) - Online office with word processor (**EULA / Free**).
-- [Microsoft Word](https://www.microsoft.com/ru-ru/microsoft-365/word) - WYSWYG text processor (**EULA / Commercial**).
+        - Plugins
+            - [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/) - Powerful markdown extension for *Atom* and *Visual Studio Code* with LaTeX math, diagrams and etc. support (**Open Source**).
+    - [LibreOffice](https://www.libreoffice.org/) - Office package with WYSWYG text processor based on *Apache OpenOffice* (**Open Source**).
+    - [Apache OpenOffice](http://www.openoffice.org/) - Office package with WYSWYG text processor (**Open Source**).
+    - [ONLYOFFICE](https://www.onlyoffice.com/) - Office almost fully compatible with *Microsoft Office* (**Open Source**).
+    - [Google Docs](https://docs.google.com/document/?usp=mkt_docs) - Online office with word processor (**EULA / Free**).
+    - [Microsoft Word](https://www.microsoft.com/ru-ru/microsoft-365/word) - WYSWYG text processor (**EULA / Commercial**).
 
 ## Publishing
 *Preparing a text for publication.*

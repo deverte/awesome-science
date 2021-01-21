@@ -1,0 +1,12 @@
+site_name: Awesome Science
+theme:
+  name: material
+  features:
+  favicon: images/favicon.png
+  logo: images/favicon.png
+repo_url: https://github.com/deverte/awesome-science
+repo_name: Awesome Science
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/Fc9u6yEzRH

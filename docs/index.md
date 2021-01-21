@@ -1,29 +1,10 @@
 # Awesome Science
 
+![Img](images/logo.png)
+
 A currated list of awesome scientific software, libraries and services.
 
 Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
-
----
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
-<!-- code_chunk_output -->
-
-- [Awesome Science](#awesome-science)
-  - [MOOCs](#moocs)
-  - [Services](#services)
-  - [Archives](#archives)
-  - [Literature Management](#literature-management)
-  - [Social](#social)
-  - [Project Management](#project-management)
-  - [Data Storage](#data-storage)
-  - [Data Processing](#data-processing)
-  - [Writing](#writing)
-  - [Publishing](#publishing)
-- [Contributing](#contributing)
-
-<!-- /code_chunk_output -->
----
 
 ## MOOCs
 *Massive open online courses.*
@@ -169,8 +150,3 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 *Preparing a text for publication.*
 
 - [LaTeX](https://www.latex-project.org/) - De facto standard for the publication of scientific documents.
-
-# Contributing
-Your assistance will be very helpful. Let's build *awesome-science* together!
-
-For contributing you can write to project's [Issues](https://github.com/deverte/awesome-science/issues) or to [Discord](https://discord.gg/Fc9u6yEzRH) chat.

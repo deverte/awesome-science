@@ -7,17 +7,17 @@ assignees: ''
 
 ---
 
-# Section name.
+## Section name
 Section / subsection / ...
 
-# Item name
+## Item name
 Name
 
-# URL
+## URL
 https://some.url
 
-# Description
+## Description
 Item description.
 
-# Comments
+## Comments
 Comments (not obligatory).

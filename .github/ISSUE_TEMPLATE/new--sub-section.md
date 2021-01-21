@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-# Section name
+## Section name
 Section name
 
-# Section description
+## Section description
 Section description.
 
-# Comments
+## Comments
 Comments (not obligatory).

@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-# Error (how is it now)
+## Error (how is it now)
 - *Section*: Social
 - *Target*: Description
 - *Error*: Scientific commuunication.
 
-# Correction (how it should be)
+## Correction (how it should be)
 - *Correction*: Scientific communication.

@@ -114,9 +114,14 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 - Software
     - [Altium Designer](https://www.altium.com/altium-designer/) - PCB and electronic design automation software package for printed circuit boards (**EULA / Commercial**).
     - [AutoCAD](https://www.autodesk.com/products/autocad/overview) - Computer-aided design (CAD) and drafting software application (**EULA / Commercial**).
+    - [diagrams.net](https://www.diagrams.net/) - Diagram Software and Flowchart Maker (**Open Source**).
     - [FreeCAD](https://www.freecadweb.org/) - general-purpose parametric 3D computer-aided design (CAD) modeler and a building information modeling (BIM) software with finite element method (FEM) support (**Open Source**).
     - [Intel Quartus Prime](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html) - Programmable logic device design software (**EULA / Freemium**).
     - [KiCad](https://www.kicad.org/) - Suite for electronic design automation (EDA) (**Open Source**).
+    - [LibreOffice Draw](https://www.libreoffice.org/) - Vector graphical editor based on *Apache OpenOffice Draw* (**Open Source**).
+    - [Microsoft Visio](https://www.microsoft.com/microsoft-365/visio/flowchart-software) - Diagramming and vector graphics application (**EULA / Commercial**).
+    - [ONLYOFFICE](https://www.onlyoffice.com/) - Office almost fully compatible with *Microsoft Office* (**Open Source**).
+    - [OpenOffice Draw](http://www.openoffice.org/) - Vector graphical editor (**Open Source**).
     - [SOLIDWORKS](https://www.solidworks.com/) - Solid modeling computer-aided design (CAD) and computer-aided engineering (CAE) computer program (**EULA / Commercial**).
 
 ## Instruments
@@ -166,10 +171,13 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [Google Docs](https://docs.google.com/document/?usp=mkt_docs) - Online office with spreadsheet (**EULA / Free**).
     - [Juno](https://junolab.org/) - Julia IDE based on Atom text editor (**Open Source**).
     - [LabVIEW](https://www.ni.com/ru-ru/shop/labview.html) - Visual programming IDE for engineers (**EULA / Commercial**).
+    - [LibreOffice Calc](https://www.libreoffice.org/) - WYSWYG table processor based on *Apache OpenOffice Calc* (**Open Source**).
     - [Mathcad](https://www.mathcad.com/en/) - Math software for engineering (**EULA / Commercial**).
     - [MATLAB](https://www.mathworks.com/products/matlab.html) - Mathematics and graphics for engineers and scientists (**EULA / Commercial**).
     - [Microsoft Excel](https://www.microsoft.com/microsoft-365/excel) - Spreadsheet with calculations, graphing and macro programming (**EULA / Commercial**).
     - [Microsoft Power BI](https://powerbi.microsoft.com/) - Data visualization (**EULA / Commercial**).
+    - [ONLYOFFICE](https://www.onlyoffice.com/) - Office almost fully compatible with *Microsoft Office* (**Open Source**).
+    - [OpenOffice Calc](http://www.openoffice.org/) - WYSWYG table processor (**Open Source**).
     - [Orange](https://orange.biolab.si/) - Data mining tools (**Open Source**).
     - [OriginLab](https://www.originlab.com/) - Graphing and data analysis (**EULA / Commercial**).
     - [RStudio](https://rstudio.com/) - IDE for R language (**Open Source**).
@@ -200,14 +208,14 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
         - [Docutils](https://docutils.sourceforge.io/index.html) - Plaintext processor.
         - [Pandoc](https://pandoc.org/) - Markup formats converter.
 - Programs
-    - [Apache OpenOffice](http://www.openoffice.org/) - Office package with WYSWYG text processor (**Open Source**).
     - [Atom](https://atom.io/) - High extensible text editor built on Electron framework (**Open Source**).
         - Plugins
             - [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/) - Powerful markdown extension for *Atom* and *Visual Studio Code* with LaTeX math, diagrams and etc. support (**Open Source**).
     - [Google Docs](https://docs.google.com/document/?usp=mkt_docs) - Online office with word processor (**EULA / Free**).
-    - [LibreOffice](https://www.libreoffice.org/) - Office package with WYSWYG text processor based on *Apache OpenOffice* (**Open Source**).
+    - [LibreOffice Writer](https://www.libreoffice.org/) - WYSWYG text processor based on *Apache OpenOffice Writer* (**Open Source**).
     - [Microsoft Word](https://www.microsoft.com/ru-ru/microsoft-365/word) - WYSWYG text processor (**EULA / Commercial**).
     - [ONLYOFFICE](https://www.onlyoffice.com/) - Office almost fully compatible with *Microsoft Office* (**Open Source**).
+    - [OpenOffice Writer](http://www.openoffice.org/) - WYSWYG text processor (**Open Source**).
     - Visual Studio Code
         - [VSCodium](https://vscodium.com/) - High extensible text editor based on *Visual Studio Code* (**Open Source**).
         - [Visual Studio Code](https://code.visualstudio.com/) - High extensible text editor  (**Open Source**).

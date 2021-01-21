@@ -96,7 +96,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [Slack](https://slack.com/intl/en-ru/) - Business communication platform (**EULA / Freemium**).
     - [Telegram Messenger](https://telegram.org/) - Instant messaging application (**Open Source** (clients), **Proprietary** (server)).
 - Project Management / Wiki
-    - [Azure DevOps Server](https://azure.microsoft.com/services/devops/server/) - Version control, reporting, requirements management, project management and more (**EULA / Freemium**).
+    - [Azure DevOps](https://azure.microsoft.com/services/devops/) - Version control, reporting, requirements management, project management and more (**EULA / Freemium**).
     - [Confluence](https://www.atlassian.com/software/confluence) - Web-based corporate wiki (**EULA / Freemium**).
     - [Jira](https://www.atlassian.com/software/jira) - Bug tracking and agile project management (**EULA / Freemium**).
     - [GitHub](https://github.com/) - Hosting for IT projects and version control. Can be used for general purpose projects (including scientific) via [Github Issues and Github Projects](https://github.com/features/project-management/) (**EULA / Freemium**).

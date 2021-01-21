@@ -1,17 +1,17 @@
 ---
 name: New (sub)section
-about: New (sub)section request.
+about: New (sub)section request
 title: "[SECTION]"
 labels: enhancement
 assignees: ''
 
 ---
 
-## Section name
-Section name
+**Section name**
+Literature Management
 
-## Section description
-Section description.
+**Section description**
+Reference managers and literature organizers.
 
-## Comments
-Comments (not obligatory).
+**Comments (not obligatory)**
+Of course, this is must have!

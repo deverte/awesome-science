@@ -1,23 +1,23 @@
 ---
 name: New item
-about: New item and it's description.
+about: New item and it's description
 title: "[ITEM]"
 labels: enhancement
 assignees: ''
 
 ---
 
-## Section name
-Section / subsection / ...
+**Section name**
+Archives / E-Print
 
-## Item name
-Name
+**Item name**
+arXiv.org
 
-## URL
-https://some.url
+**URL**
+https://arxiv.org/
 
-## Description
-Item description.
+**Description**
+E-Print archive for physics, mathematics, computer science, economics and engineering.
 
-## Comments
-Comments (not obligatory).
+**Comments (not obligatory)**
+Good and reliable archive.

@@ -180,6 +180,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [OpenOffice Calc](http://www.openoffice.org/) - WYSWYG table processor (**Open Source**).
     - [Orange](https://orange.biolab.si/) - Data mining tools (**Open Source**).
     - [OriginLab](https://www.originlab.com/) - Graphing and data analysis (**EULA / Commercial**).
+    - [PyCharm](https://www.jetbrains.com/pycharm/) - The Python IDE for Professional Developers (includes scientific tools) (**Open Source** or **EULA / Commercial**).
     - [RStudio](https://rstudio.com/) - IDE for R language (**Open Source**).
     - [SciDAVis](http://scidavis.sourceforge.net/) - Scientific data analysis and visualization (**Open Source**).
     - [SciLab](https://www.scilab.org/) - Software for numerical computation (**Open Source**).

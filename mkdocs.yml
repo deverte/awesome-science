@@ -4,9 +4,17 @@ theme:
   features:
   favicon: images/favicon.png
   logo: images/favicon.png
+  icon:
+    repo: fontawesome/brands/github
 repo_url: https://github.com/deverte/awesome-science
 repo_name: Awesome Science
 extra:
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/Fc9u6yEzRH
+edit_uri: ""
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg

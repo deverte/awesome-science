@@ -140,9 +140,9 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [scikit-learn](https://www.sklearn.org/) - Machine learning library.
     - [SciPy](https://www.scipy.org/) - Ecosystem for mathematics, science and engineering based on Python.
         - [NumPy](https://numpy.org/) - Base N-dimensional array package.
+        - [pandas](https://pandas.pydata.org/) - Data structures & analysis.
         - [SciPy library](https://www.scipy.org/scipylib/index.html) - Fundamental library for scientific computing.
         - [SymPy](https://www.sympy.org/en/index.html) - Symbolic mathematics.
-        - [pandas](https://pandas.pydata.org/) - Data structures & analysis.
     - [statsmodels](https://www.statsmodels.org/) - Python module for statistical models.
     - [TensorFlow](https://www.tensorflow.org/) - Platform for machine learning.
 - Platforms
@@ -202,8 +202,8 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [ONLYOFFICE](https://www.onlyoffice.com/) - Office almost fully compatible with *Microsoft Office* (**Open Source**).
     - [OpenOffice Writer](http://www.openoffice.org/) - WYSWYG text processor (**Open Source**).
     - Visual Studio Code
-        - [VSCodium](https://vscodium.com/) - High extensible text editor based on *Visual Studio Code* (**Open Source**).
         - [Visual Studio Code](https://code.visualstudio.com/) - High extensible text editor  (**Open Source**).
+        - [VSCodium](https://vscodium.com/) - High extensible text editor based on *Visual Studio Code* (**Open Source**).
         - Plugins
             - [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/) - Powerful markdown extension for *Atom* and *Visual Studio Code* with LaTeX math, diagrams and etc. support (**Open Source**).
 

@@ -98,9 +98,9 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 - Project Management / Wiki
     - [Azure DevOps](https://azure.microsoft.com/services/devops/) - Version control, reporting, requirements management, project management and more (**EULA / Freemium**).
     - [Confluence](https://www.atlassian.com/software/confluence) - Web-based corporate wiki (**EULA / Freemium**).
-    - [Jira](https://www.atlassian.com/software/jira) - Bug tracking and agile project management (**EULA / Freemium**).
     - [GitHub](https://github.com/) - Hosting for IT projects and version control. Can be used for general purpose projects (including scientific) via [Github Issues and Github Projects](https://github.com/features/project-management/) (**EULA / Freemium**).
         - [GitKraken Boards](https://www.gitkraken.com/boards) - Free Kanban boards with GitHub Issue sync, pull request automation & more (**EULA / Freemium**).
+    - [Jira](https://www.atlassian.com/software/jira) - Bug tracking and agile project management (**EULA / Freemium**).
     - [Notion](https://www.notion.so/) - Note taking, wiki and project management application (**EULA / Freemium**).
     - [Redmine](https://www.redmine.org/) - Flexible project management web application (**Open Source**).
     - [Trello](https://trello.com/) - Project management with kanban boards (**EULA / Freemium**).

@@ -139,6 +139,10 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [PyTorch](https://pytorch.org/) - Machine learning framework.
     - [scikit-learn](https://www.sklearn.org/) - Machine learning library.
     - [SciPy](https://www.scipy.org/) - Ecosystem for mathematics, science and engineering based on Python.
+        - [NumPy](https://numpy.org/) - Base N-dimensional array package.
+        - [SciPy library](https://www.scipy.org/scipylib/index.html) - Fundamental library for scientific computing.
+        - [SymPy](https://www.sympy.org/en/index.html) - Symbolic mathematics.
+        - [pandas](https://pandas.pydata.org/) - Data structures & analysis.
     - [statsmodels](https://www.statsmodels.org/) - Python module for statistical models.
     - [TensorFlow](https://www.tensorflow.org/) - Platform for machine learning.
 - Platforms

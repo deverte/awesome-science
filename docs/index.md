@@ -53,6 +53,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 ## Literature Management
 *Reference managers and literature organizers.*
 
+- [BibTeX](http://tug.org/bibtex/) - Reference management software for formatting lists of references (**Open Source**).
 - [EndNote](https://endnote.com/) - Bibliography information and reference manager (**EULA / Commercial**).
 - [JabRef](https://www.jabref.org/) - Reference manager (**Open Source**).
 - [Mendeley](https://www.mendeley.com/) - Reference and literature collection manager with PDFs annotation (**EULA / Free**).
@@ -212,22 +213,23 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [Markdown](https://daringfireball.net/projects/markdown/) - Lightweight markup language and text-to-HTML conversion tool. Some converters are supporting LaTeX math, diagrams and so on.
     - [R Markdown](https://rmarkdown.rstudio.com/) - Dynamic documents for R language and more.
     - [reStructuredText](https://docutils.sourceforge.io/rst.html) - Plaintext markup syntax and parser system (natively supports LaTeX math).
+    - Math typesetting
+        - [KaTeX](https://katex.org/) - The fastest math typesetting library for the web.
+        - [LaTeX](https://www.latex-project.org/) - Markup language with math expressions.
+        - [MathJax](https://www.mathjax.org/) - A JavaScript display engine for mathematics that works in all browsers.
+        - [MathML](https://www.w3.org/Math/) - Mathematical markup language, an application of XML for describing mathematical notations and capturing both its structure and content.
     - Converters
         - [Asciidoctor](https://asciidoctor.org/) - A fast, open source text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook, PDF, and other formats.
         - [Docutils](https://docutils.sourceforge.io/index.html) - Plaintext processor.
         - [Pandoc](https://pandoc.org/) - Markup formats converter.
-    - Math
-        - [KaTeX](https://katex.org/) - The fastest math typesetting library for the web.
-        - [MathJax](https://www.mathjax.org/) - A JavaScript display engine for mathematics that works in all browsers.
-        - [MathML](https://www.w3.org/Math/) - Mathematical markup language, an application of XML for describing mathematical notations and capturing both its structure and content.
 - Programs
     - [Atom](https://atom.io/) - High extensible text editor built on Electron framework (**Open Source**).
         - Plugins
             - [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/) - Powerful markdown extension for *Atom* and *Visual Studio Code* with LaTeX math, diagrams and etc. support (**Open Source**).
     - [Google Docs](https://docs.google.com/document/?usp=mkt_docs) - Online office with word processor (**EULA / Free**).
     - [LibreOffice Writer](https://www.libreoffice.org/) - WYSWYG text processor based on *Apache OpenOffice Writer* (**Open Source**).
-    - [LyX](https://www.lyx.org/) - A document processor that encourages an approach to writing based on the structure of your documents (WYSIWYM) and not simply their appearance (WYSIWYG) (**Open Source**).
         - [LibreOffice Math](https://www.libreoffice.org/) - An application designed for creating and editing mathematical formulae based on *Apache OpenOffice Math* (**Open Source**).
+    - [LyX](https://www.lyx.org/) - A document processor that encourages an approach to writing based on the structure of your documents (WYSIWYM) and not simply their appearance (WYSIWYG) (**Open Source**).
     - [MathType](http://www.wiris.com/en/mathtype) - A powerful interactive equation editor (**EULA / Commercial**).
     - [Microsoft Word](https://www.microsoft.com/ru-ru/microsoft-365/word) - WYSWYG text processor (**EULA / Commercial**).
     - [ONLYOFFICE](https://www.onlyoffice.com/) - Office almost fully compatible with *Microsoft Office* (**Open Source**).

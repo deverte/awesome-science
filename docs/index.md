@@ -80,8 +80,11 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [GitHub](https://github.com/) - Hosting for IT projects and version control. Can be used for general purpose projects (including scientific) via [Github Issues and Github Projects](https://github.com/features/project-management/) (**EULA / Freemium**).
         - [GitKraken Boards](https://www.gitkraken.com/boards) - Free Kanban boards with GitHub Issue sync, pull request automation & more (**EULA / Freemium**).
     - [Jira](https://www.atlassian.com/software/jira) - Bug tracking and agile project management (**EULA / Freemium**).
+    - [Kanboard](https://kanboard.org/) - Kanban project management software (**Open Source**).
     - [Notion](https://www.notion.so/) - Note taking, wiki and project management application (**EULA / Freemium**).
     - [Redmine](https://www.redmine.org/) - Flexible project management web application (**Open Source**).
+    - [Restyaboard](https://restya.com/board/) - Kanban board for task management (**Open Source**).
+    - [Taiga Agile](https://www.taiga.io/) - Project management tool for multi-functional agile teams (**Open Source**).
     - [Trello](https://trello.com/) - Project management with kanban boards (**EULA / Freemium**).
     - [Yandex.Tracker](https://yandex.com/tracker/index?turbo=true) - Project management and organizational tool (**EULA / Freemium**).
 
@@ -95,10 +98,12 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [Altium Designer](https://www.altium.com/altium-designer/) - PCB and electronic design automation software package for printed circuit boards (**EULA / Commercial**).
     - [AutoCAD](https://www.autodesk.com/products/autocad/overview) - Computer-aided design (CAD) and drafting software application (**EULA / Commercial**).
     - [diagrams.net](https://www.diagrams.net/) - Diagram Software and Flowchart Maker (**Open Source**).
+    - [flowchart.js](https://flowchart.js.org/) - Draws simple SVG flow chart diagrams from textual representation of the diagram (**Open Source**).
     - [FreeCAD](https://www.freecadweb.org/) - general-purpose parametric 3D computer-aided design (CAD) modeler and a building information modeling (BIM) software with finite element method (FEM) support (**Open Source**).
     - [Intel Quartus Prime](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html) - Programmable logic device design software (**EULA / Freemium**).
     - [KiCad](https://www.kicad.org/) - Suite for electronic design automation (EDA) (**Open Source**).
     - [LibreOffice Draw](https://www.libreoffice.org/) - Vector graphical editor based on *Apache OpenOffice Draw* (**Open Source**).
+    - [mermaid](https://mermaid-js.github.io/mermaid/) - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs (**Open Source**).
     - [Microsoft Visio](https://www.microsoft.com/microsoft-365/visio/flowchart-software) - Diagramming and vector graphics application (**EULA / Commercial**).
     - [ONLYOFFICE](https://www.onlyoffice.com/) - Office almost fully compatible with *Microsoft Office* (**Open Source**).
     - [OpenOffice Draw](http://www.openoffice.org/) - Vector graphical editor (**Open Source**).
@@ -107,15 +112,21 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 ## Instruments
 *Modeling, calculations and etc.*
 
+- Universal
+    - [Blender](https://www.blender.org/) - 3D computer graphics software toolset with ability to simulate physical, chemical, biological, ... systems with game engines (**Open Source**).
+        - [Armory](https://armory3d.org/) - 3D game engine with full *Blender* integration (**Open Source**).
+    - [Godot Engine](https://godotengine.org/) - 2D and 3D game engine (**Open Source**).
 - Chemistry
     - [Quantum ESPRESSO](https://www.quantum-espresso.org/) - Suite for first-principles electronic-structure calculations and materials modeling (**Open Source**).
-- Physics
+- Physics / Engineering
     - [Cirq](https://quantumai.google/cirq) - An open source framework for programming quantum computers (**Open Source**).
     - [IBM Quantum Experience](https://quantum-computing.ibm.com/) - Online platform for quantum processors prototyping (**EULA / Free**).
     - [PennyLane](https://pennylane.ai/) - Python library for differentiable programming of quantum computers (**Open Source**).
     - [Qiskit](https://qiskit.org/) - An open source SDK for working with quantum computers at the level of pulses, circuits and application modules (**Open Source**).
     - [Quantum ESPRESSO](https://www.quantum-espresso.org/) - Suite for first-principles electronic-structure calculations and materials modeling (**Open Source**).
+    - [Simulink](https://www.mathworks.com/products/simulink.html) - Simulation and Model-Based Design (**EULA / Commercial**).
     - [Strawberry Fields](https://strawberryfields.ai/) - Python library for simulating and executing programs on quantum photonic hardware (**Open Source**).
+    - [Xcos](https://www.scilab.org/software/xcos) - Dynamic systems modeler and simulator in discrete and continuous time domains (**Open Source**).
 
 ## Data Storage
 *Storages for scientific data.*
@@ -180,34 +191,51 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 - [Plotly](https://plotly.com/) - Library for data visualization and dashboards (**Open Source**).
 - [PyQtGraph](http://www.pyqtgraph.org/) - Scientific Graphics and GUI Library for Python (**Open Source**).
 
+## Presentation
+*Presentation of your project.*
+
+- [beamer](https://ctan.org/pkg/beamer) - LaTeX class for producting slides (**Open Source**).
+- [Google Docs](https://docs.google.com/document/?usp=mkt_docs) - Online office with presentations (**EULA / Free**).
+- [LibreOffice Impress](https://www.libreoffice.org/) - A presentation program based on *Apache OpenOffice Impress* (**Open Source**).
+- [Microsoft PowerPoint](https://www.microsoft.com/ru-ru/microsoft-365/powerpoint) - WYSWYG text processor (**EULA / Commercial**).
+- [ONLYOFFICE](https://www.onlyoffice.com/) - Office almost fully compatible with *Microsoft Office* (**Open Source**).
+- [OpenOffice Impress](http://www.openoffice.org/) - A presentation program (**Open Source**).
+- [reveal.js](https://revealjs.com/) - The HTML presentation framework (**Open Source**).
+
 ## Writing
 *Instruments for article writing.*
 
 - Formats
     - [AsciiDoc](https://asciidoc.org/) - Text document format for writing articles, books. Supports AsciiMath, MathML and LaTeX formulas.
     - [Jupyter Notebook](https://jupyter.org/) - Interactive documents with live code, equations and visualization for [many languages](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels).
+    - [LaTeX](https://www.latex-project.org/) - De facto standard for the publication of scientific documents.
     - [Markdown](https://daringfireball.net/projects/markdown/) - Lightweight markup language and text-to-HTML conversion tool. Some converters are supporting LaTeX math, diagrams and so on.
     - [R Markdown](https://rmarkdown.rstudio.com/) - Dynamic documents for R language and more.
     - [reStructuredText](https://docutils.sourceforge.io/rst.html) - Plaintext markup syntax and parser system (natively supports LaTeX math).
     - Converters
+        - [Asciidoctor](https://asciidoctor.org/) - A fast, open source text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook, PDF, and other formats.
         - [Docutils](https://docutils.sourceforge.io/index.html) - Plaintext processor.
         - [Pandoc](https://pandoc.org/) - Markup formats converter.
+    - Math
+        - [KaTeX](https://katex.org/) - The fastest math typesetting library for the web.
+        - [MathJax](https://www.mathjax.org/) - A JavaScript display engine for mathematics that works in all browsers.
+        - [MathML](https://www.w3.org/Math/) - Mathematical markup language, an application of XML for describing mathematical notations and capturing both its structure and content.
 - Programs
     - [Atom](https://atom.io/) - High extensible text editor built on Electron framework (**Open Source**).
         - Plugins
             - [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/) - Powerful markdown extension for *Atom* and *Visual Studio Code* with LaTeX math, diagrams and etc. support (**Open Source**).
     - [Google Docs](https://docs.google.com/document/?usp=mkt_docs) - Online office with word processor (**EULA / Free**).
     - [LibreOffice Writer](https://www.libreoffice.org/) - WYSWYG text processor based on *Apache OpenOffice Writer* (**Open Source**).
+    - [LyX](https://www.lyx.org/) - A document processor that encourages an approach to writing based on the structure of your documents (WYSIWYM) and not simply their appearance (WYSIWYG) (**Open Source**).
+        - [LibreOffice Math](https://www.libreoffice.org/) - An application designed for creating and editing mathematical formulae based on *Apache OpenOffice Math* (**Open Source**).
+    - [MathType](http://www.wiris.com/en/mathtype) - A powerful interactive equation editor (**EULA / Commercial**).
     - [Microsoft Word](https://www.microsoft.com/ru-ru/microsoft-365/word) - WYSWYG text processor (**EULA / Commercial**).
     - [ONLYOFFICE](https://www.onlyoffice.com/) - Office almost fully compatible with *Microsoft Office* (**Open Source**).
     - [OpenOffice Writer](http://www.openoffice.org/) - WYSWYG text processor (**Open Source**).
+        - [OpenOffice Math](http://www.openoffice.org/) - A tool for creating and editing mathematical formulae (**Open Source**).
+    - [Overleaf](https://www.overleaf.com/) - Online LaTeX Editor (**Open Source / Freemium**).
     - Visual Studio Code
         - [Visual Studio Code](https://code.visualstudio.com/) - High extensible text editor  (**Open Source**).
         - [VSCodium](https://vscodium.com/) - High extensible text editor based on *Visual Studio Code* (**Open Source**).
         - Plugins
             - [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/) - Powerful markdown extension for *Atom* and *Visual Studio Code* with LaTeX math, diagrams and etc. support (**Open Source**).
-
-## Publishing
-*Preparing a text for publication.*
-
-- [LaTeX](https://www.latex-project.org/) - De facto standard for the publication of scientific documents. scientific documents.

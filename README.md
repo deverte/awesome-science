@@ -179,10 +179,10 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [TensorFlow](https://www.tensorflow.org/) - Platform for machine learning.
 - Platforms
     - [Anaconda](https://anaconda.org/) - Python and R distribution with many scientific libraries.
-    - [Axiom](http://www.axiom-developer.org/) - General-purpose computer algebra system (**Open Source**).
     - [JupyterLab / Jupyter Notebook](https://jupyter.org/) - Interactive documents with live code, equations and visualization for [many languages](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels).
     - [ROOT](https://root.cern.ch/) - Data analysis framework for C++.
 - IDE / CAS
+    - [Axiom](http://www.axiom-developer.org/) - General-purpose computer algebra system (**Open Source**).
     - [GNU Octave](https://www.gnu.org/software/octave/index) - Mathematics-oriented language and IDE with visualization tools (**Open Source**).
     - [Google Colaboratory](https://colab.research.google.com/) - Python code in browser with access to GPU and TPU (**EULA / Free**).
     - [Google Docs](https://docs.google.com/document/?usp=mkt_docs) - Online office with spreadsheet (**EULA / Free**).

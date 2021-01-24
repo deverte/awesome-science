@@ -127,7 +127,6 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [LibreOffice Draw](https://www.libreoffice.org/) - Vector graphical editor based on *Apache OpenOffice Draw* (**Open Source**).
     - [mermaid](https://mermaid-js.github.io/mermaid/) - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs (**Open Source**).
     - [Microsoft Visio](https://www.microsoft.com/microsoft-365/visio/flowchart-software) - Diagramming and vector graphics application (**EULA / Commercial**).
-    - [ONLYOFFICE](https://www.onlyoffice.com/) - Office almost fully compatible with *Microsoft Office* (**Open Source**).
     - [OpenOffice Draw](http://www.openoffice.org/) - Vector graphical editor (**Open Source**).
     - [SOLIDWORKS](https://www.solidworks.com/) - Solid modeling computer-aided design (CAD) and computer-aided engineering (CAE) computer program (**EULA / Commercial**).
 
@@ -207,9 +206,15 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 ## Data Visualization
 *Data visualization software and libraries.*
 
+- [diagrams.net](https://www.diagrams.net/) - Diagram Software and Flowchart Maker (**Open Source**).
+- [flowchart.js](https://flowchart.js.org/) - Draws simple SVG flow chart diagrams from textual representation of the diagram (**Open Source**).
 - [gnuplot](http://www.gnuplot.info/) - Portable command-line driven graphing utility (**Open Source**).
+- [LibreOffice Draw](https://www.libreoffice.org/) - Vector graphical editor based on *Apache OpenOffice Draw* (**Open Source**).
 - [Matplotlib](https://matplotlib.org/) - Visualization library for Python (**Open Source**).
     - [seaborn](https://seaborn.pydata.org/) - Library for making statistical graphics in Python (**Open Source**).
+- [mermaid](https://mermaid-js.github.io/mermaid/) - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs (**Open Source**).
+- [Microsoft Visio](https://www.microsoft.com/microsoft-365/visio/flowchart-software) - Diagramming and vector graphics application (**EULA / Commercial**).
+- [OpenOffice Draw](http://www.openoffice.org/) - Vector graphical editor (**Open Source**).
 - [Plotly](https://plotly.com/) - Library for data visualization and dashboards (**Open Source**).
 - [PyQtGraph](http://www.pyqtgraph.org/) - Scientific Graphics and GUI Library for Python (**Open Source**).
 

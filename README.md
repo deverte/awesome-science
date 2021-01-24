@@ -179,6 +179,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [TensorFlow](https://www.tensorflow.org/) - Platform for machine learning.
 - Platforms
     - [Anaconda](https://anaconda.org/) - Python and R distribution with many scientific libraries.
+    - [Axiom](http://www.axiom-developer.org/) - General-purpose computer algebra system (**Open Source**).
     - [JupyterLab / Jupyter Notebook](https://jupyter.org/) - Interactive documents with live code, equations and visualization for [many languages](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels).
     - [ROOT](https://root.cern.ch/) - Data analysis framework for C++.
 - IDE / CAS
@@ -188,18 +189,24 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [Juno](https://junolab.org/) - Julia IDE based on Atom text editor (**Open Source**).
     - [LabVIEW](https://www.ni.com/ru-ru/shop/labview.html) - Visual programming IDE for engineers (**EULA / Commercial**).
     - [LibreOffice Calc](https://www.libreoffice.org/) - WYSWYG table processor based on *Apache OpenOffice Calc* (**Open Source**).
+    - [Magma](http://magma.maths.usyd.edu.au/magma/) - a computer algebra system designed to solve problems in algebra, number theory, geometry and combinatorics (**EULA / Free**).
+    - [Maple](https://www.maplesoft.com/) - A symbolic and numeric computing environment as well as a multi-paradigm programming language (**EULA / Commercial**).
     - [Mathcad](https://www.mathcad.com/en/) - Math software for engineering (**EULA / Commercial**).
     - [MATLAB](https://www.mathworks.com/products/matlab.html) - Mathematics and graphics for engineers and scientists (**EULA / Commercial**).
+    - [Maxima](https://maxima.sourceforge.io/) - A system for the manipulation of symbolic and numerical expressions, including differentiation, integration, Taylor series and etc (**Open Source**).
     - [Microsoft Excel](https://www.microsoft.com/microsoft-365/excel) - Spreadsheet with calculations, graphing and macro programming (**EULA / Commercial**).
     - [Microsoft Power BI](https://powerbi.microsoft.com/) - Data visualization (**EULA / Commercial**).
     - [ONLYOFFICE](https://www.onlyoffice.com/) - Office almost fully compatible with *Microsoft Office* (**Open Source**).
     - [OpenOffice Calc](http://www.openoffice.org/) - WYSWYG table processor (**Open Source**).
     - [Orange](https://orange.biolab.si/) - Data mining tools (**Open Source**).
     - [OriginLab](https://www.originlab.com/) - Graphing and data analysis (**EULA / Commercial**).
+    - [PAST (Paleontological Statistics)](https://www.nhm.uio.no/english/research/infrastructure/past/) - Software for scientific data analysis, with functions for data manipulation, plotting, univariate and multivariate statistics, ecological analysis, time series and spatial analysis, morphometrics and stratigraphy (**EULA / Free**).
     - [PyCharm](https://www.jetbrains.com/pycharm/) - The Python IDE for Professional Developers (includes scientific tools) (**Open Source** or **EULA / Commercial**).
     - [RStudio](https://rstudio.com/) - IDE for R language (**Open Source**).
+    - [SageMath](https://www.sagemath.org/) - Mathematics software system (**Open Source**).
     - [SciDAVis](http://scidavis.sourceforge.net/) - Scientific data analysis and visualization (**Open Source**).
     - [SciLab](https://www.scilab.org/) - Software for numerical computation (**Open Source**).
+    - [SMath Studio](https://en.smath.com/view/SMathStudio/summary) - Tiny, powerful, free mathematical program with WYSIWYG editor and complete units of measurements support (**EULA / Free**).
     - [Spyder](https://www.spyder-ide.org/) - Scientific Python IDE (**Open Source**).
     - [Wolfram Mathematica](https://www.wolfram.com/mathematica/) - Technical calculations (**EULA / Commercial**).
 

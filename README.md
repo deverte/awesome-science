@@ -111,8 +111,8 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [Yandex.Tracker](https://yandex.com/tracker/index?turbo=true) - Project management and organizational tool (**EULA / Freemium**).
 - Project Wiki
     - [Confluence](https://www.atlassian.com/software/confluence) - Web-based corporate wiki (**EULA / Freemium**).
-    - [Docusaurus](https://v2.docusaurus.io/) - A project for building, deploying, and maintaining open source project websites easily (**Open Source**).
     - [docsify](https://docsify.js.org/) - A magical documentation site generator (**Open Source**).
+    - [Docusaurus](https://v2.docusaurus.io/) - A project for building, deploying, and maintaining open source project websites easily (**Open Source**).
     - [Gatsby](https://www.gatsbyjs.com/) - A framework based on ReactJS, Webpack, JavaScript and CSS that helps developers quickly build very fast static websites and apps (**Open Source**).
     - [GitBook](https://www.gitbook.com/) - A modern documentation platform where teams can document everything from products to internal knowledge-bases and APIs (**EULA / Freemium**).
     - [GitHub](https://github.com/) - Hosting for IT projects and version control. Can be used for general purpose projects (including scientific) (**EULA / Freemium**).
@@ -184,23 +184,33 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
         - [Numba](https://numba.pydata.org/) - JIT compiler that translates a subset of Python and NumPy code into fast machine code (**Open Source**).
     - [R](https://www.r-project.org/) - Statistical computing and graphics.
 - Libraries
-    - [Gensim](https://radimrehurek.com/gensim/) - An open-source library for unsupervised topic modeling and natural language processing, using modern statistical machine learning.
-    - [Gonum](https://www.gonum.org/) - A set of packages designed to make writing numerical and scientific algorithms productive, performant, and scalable.
-    - [NetworkX](https://networkx.org/) - a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
-    - [Natural Language Toolkit (NLTK)](https://www.nltk.org/) - A suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English written in the Python programming language.
-    - [PyTorch](https://pytorch.org/) - Machine learning framework.
-    - [scikit-learn](https://www.sklearn.org/) - Machine learning library.
-    - [SciPy](https://www.scipy.org/) - Ecosystem for mathematics, science and engineering based on Python.
-        - [NumPy](https://numpy.org/) - Base N-dimensional array package.
-        - [pandas](https://pandas.pydata.org/) - Data structures & analysis.
-        - [SciPy library](https://www.scipy.org/scipylib/index.html) - Fundamental library for scientific computing.
-        - [SymPy](https://www.sympy.org/en/index.html) - Symbolic mathematics.
-    - [statsmodels](https://www.statsmodels.org/) - Python module for statistical models.
-    - [TensorFlow](https://www.tensorflow.org/) - Platform for machine learning.
+    - C/C++
+        - [PyTorch](https://pytorch.org/) - Machine learning framework (**Open Source**).
+        - [TensorFlow](https://www.tensorflow.org/) - Platform for machine learning (**Open Source**).
+    - Go
+        - [Gonum](https://www.gonum.org/) - A set of packages designed to make writing numerical and scientific algorithms productive, performant, and scalable (**Open Source**).
+        - [TensorFlow](https://www.tensorflow.org/) - Platform for machine learning (**Open Source**).
+    - Java
+        - [PyTorch](https://pytorch.org/) - Machine learning framework (**Open Source**).
+        - [TensorFlow](https://www.tensorflow.org/) - Platform for machine learning (**Open Source**).
+    - Python
+        - [Gensim](https://radimrehurek.com/gensim/) - An open-source library for unsupervised topic modeling and natural language processing, using modern statistical machine learning (**Open Source**).
+        - [NetworkX](https://networkx.org/) - A Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks (**Open Source**).
+        - [Natural Language Toolkit (NLTK)](https://www.nltk.org/) - A suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English written in the Python programming language (**Open Source**).
+        - [Open Neural Network Exchange (ONNX)](https://onnx.ai/index.html) - An open format built to represent machine learning models (**Open Source**).
+        - [PyTorch](https://pytorch.org/) - Machine learning framework (**Open Source**).
+        - [scikit-learn](https://www.sklearn.org/) - Machine learning library (**Open Source**).
+        - [SciPy](https://www.scipy.org/) - Ecosystem for mathematics, science and engineering based on Python (**Open Source**).
+            - [NumPy](https://numpy.org/) - Base N-dimensional array package (**Open Source**).
+            - [pandas](https://pandas.pydata.org/) - Data structures & analysis (**Open Source**).
+            - [SciPy library](https://www.scipy.org/scipylib/index.html) - Fundamental library for scientific computing (**Open Source**).
+            - [SymPy](https://www.sympy.org/en/index.html) - Symbolic mathematics (**Open Source**).
+        - [statsmodels](https://www.statsmodels.org/) - Python module for statistical models (**Open Source**).
+        - [TensorFlow](https://www.tensorflow.org/) - Platform for machine learning (**Open Source**).
 - Platforms
-    - [Anaconda](https://anaconda.org/) - Python and R distribution with many scientific libraries.
-    - [JupyterLab / Jupyter Notebook](https://jupyter.org/) - Interactive documents with live code, equations and visualization for [many languages](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels).
-    - [ROOT](https://root.cern.ch/) - Data analysis framework for C++.
+    - [Anaconda](https://anaconda.org/) - Python and R distribution with many scientific libraries (**Open Source / Freemium**).
+    - [JupyterLab / Jupyter Notebook](https://jupyter.org/) - Interactive documents with live code, equations and visualization for [many languages](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) (**Open Source**).
+    - [ROOT](https://root.cern.ch/) - Data analysis framework for C++ (**Open Source**).
 - IDE / CAS
     - [Axiom](http://www.axiom-developer.org/) - General-purpose computer algebra system (**Open Source**).
     - [GNU Octave](https://www.gnu.org/software/octave/index) - Mathematics-oriented language and IDE with visualization tools (**Open Source**).

@@ -96,10 +96,10 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [Freenode](http://freenode.net/) - IRC-network (**Open Source**).
     - [Slack](https://slack.com/intl/en-ru/) - Business communication platform (**EULA / Freemium**).
     - [Telegram Messenger](https://telegram.org/) - Instant messaging application (**Open Source** (clients), **Proprietary** (server)).
-- Project Management / Wiki
+- Project Management
     - [Azure DevOps](https://azure.microsoft.com/services/devops/) - Version control, reporting, requirements management, project management and more (**EULA / Freemium**).
-    - [Confluence](https://www.atlassian.com/software/confluence) - Web-based corporate wiki (**EULA / Freemium**).
-    - [GitHub](https://github.com/) - Hosting for IT projects and version control. Can be used for general purpose projects (including scientific) via [Github Issues and Github Projects](https://github.com/features/project-management/) (**EULA / Freemium**).
+    - [GitHub](https://github.com/) - Hosting for IT projects and version control. Can be used for general purpose projects (including scientific) (**EULA / Freemium**).
+        - [Github Issues and Github Projects](https://github.com/features/project-management/) - Coordination, tracking, and updating work in GitHub (**EULA / Freemium**).
         - [GitKraken Boards](https://www.gitkraken.com/boards) - Free Kanban boards with GitHub Issue sync, pull request automation & more (**EULA / Freemium**).
     - [Jira](https://www.atlassian.com/software/jira) - Bug tracking and agile project management (**EULA / Freemium**).
     - [Kanboard](https://kanboard.org/) - Kanban project management software (**Open Source**).
@@ -109,6 +109,20 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [Taiga Agile](https://www.taiga.io/) - Project management tool for multi-functional agile teams (**Open Source**).
     - [Trello](https://trello.com/) - Project management with kanban boards (**EULA / Freemium**).
     - [Yandex.Tracker](https://yandex.com/tracker/index?turbo=true) - Project management and organizational tool (**EULA / Freemium**).
+- Project Wiki
+    - [Confluence](https://www.atlassian.com/software/confluence) - Web-based corporate wiki (**EULA / Freemium**).
+    - [Docusaurus](https://v2.docusaurus.io/) - A project for building, deploying, and maintaining open source project websites easily (**Open Source**).
+    - [docsify](https://docsify.js.org/) - A magical documentation site generator (**Open Source**).
+    - [Gatsby](https://www.gatsbyjs.com/) - A framework based on ReactJS, Webpack, JavaScript and CSS that helps developers quickly build very fast static websites and apps (**Open Source**).
+    - [GitBook](https://www.gitbook.com/) - A modern documentation platform where teams can document everything from products to internal knowledge-bases and APIs (**EULA / Freemium**).
+    - [GitHub](https://github.com/) - Hosting for IT projects and version control. Can be used for general purpose projects (including scientific) (**EULA / Freemium**).
+        - [GitHub Pages](https://pages.github.com/) - Websites for projects, hosted directly from GitHub repository (**EULA / Freemium**).
+        - [GitHub Wikis](https://guides.github.com/features/wikis/) - GitHub repository's wiki to share long-form content about project (**EULA / Freemium**).
+    - [Jekyll](https://jekyllrb.com/) - Simple, blog-aware, static sites (**Open Source**).
+    - [MkDocs](https://www.mkdocs.org/) - A fast, simple and downright gorgeous static site generator that's geared towards building project documentation (**Open Source**).
+    - [Notion](https://www.notion.so/) - Note taking, wiki and project management application (**EULA / Freemium**).
+    - [Read the Docs](https://readthedocs.org/) - Read the Docs hosts documentation for the open source community (**Open Source**).
+    - [VuePress](https://vuepress.vuejs.org/) - Vue-powered Static Site Generator (**Open Source**).
 
 ## Engineering
 *Experimental device creation and automation tools.*
@@ -145,6 +159,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [PennyLane](https://pennylane.ai/) - Python library for differentiable programming of quantum computers (**Open Source**).
     - [Qiskit](https://qiskit.org/) - An open source SDK for working with quantum computers at the level of pulses, circuits and application modules (**Open Source**).
     - [Quantum ESPRESSO](https://www.quantum-espresso.org/) - Suite for first-principles electronic-structure calculations and materials modeling (**Open Source**).
+    - [QuTiP](http://qutip.org/) - Software for simulating the dynamics of open quantum systems (**Open Source**).
     - [Simulink](https://www.mathworks.com/products/simulink.html) - Simulation and Model-Based Design (**EULA / Commercial**).
     - [Strawberry Fields](https://strawberryfields.ai/) - Python library for simulating and executing programs on quantum photonic hardware (**Open Source**).
     - [Xcos](https://www.scilab.org/software/xcos) - Dynamic systems modeler and simulator in discrete and continuous time domains (**Open Source**).
@@ -166,8 +181,13 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [C++](https://isocpp.org/) - General purpose language with high performance.
     - [Julia](https://julialang.org/) - Language for mathematical computations with high performance.
     - [Python](https://www.python.org/) - General purpose language with many scientific libraries.
+        - [Numba](https://numba.pydata.org/) - JIT compiler that translates a subset of Python and NumPy code into fast machine code (**Open Source**).
     - [R](https://www.r-project.org/) - Statistical computing and graphics.
 - Libraries
+    - [Gensim](https://radimrehurek.com/gensim/) - An open-source library for unsupervised topic modeling and natural language processing, using modern statistical machine learning.
+    - [Gonum](https://www.gonum.org/) - A set of packages designed to make writing numerical and scientific algorithms productive, performant, and scalable.
+    - [NetworkX](https://networkx.org/) - a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
+    - [Natural Language Toolkit (NLTK)](https://www.nltk.org/) - A suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English written in the Python programming language.
     - [PyTorch](https://pytorch.org/) - Machine learning framework.
     - [scikit-learn](https://www.sklearn.org/) - Machine learning library.
     - [SciPy](https://www.scipy.org/) - Ecosystem for mathematics, science and engineering based on Python.
@@ -213,6 +233,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 ## Data Visualization
 *Data visualization software and libraries.*
 
+- [Bokeh](https://bokeh.org/) - An interactive visualization library for modern web browsers (**Open Source**).
 - [diagrams.net](https://www.diagrams.net/) - Diagram Software and Flowchart Maker (**Open Source**).
 - [flowchart.js](https://flowchart.js.org/) - Draws simple SVG flow chart diagrams from textual representation of the diagram (**Open Source**).
 - [gnuplot](http://www.gnuplot.info/) - Portable command-line driven graphing utility (**Open Source**).
@@ -223,7 +244,9 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 - [Microsoft Visio](https://www.microsoft.com/microsoft-365/visio/flowchart-software) - Diagramming and vector graphics application (**EULA / Commercial**).
 - [OpenOffice Draw](http://www.openoffice.org/) - Vector graphical editor (**Open Source**).
 - [Plotly](https://plotly.com/) - Library for data visualization and dashboards (**Open Source**).
+    - [Dash](https://plotly.com/dash/) - A productive Python framework for building web analytic applications (**Open Source**).
 - [PyQtGraph](http://www.pyqtgraph.org/) - Scientific Graphics and GUI Library for Python (**Open Source**).
+- [Shiny](https://shiny.rstudio.com/) - An R package that makes it easy to build interactive web apps straight from R (**Open Source**).
 
 ## Presentation
 *Presentation of your project.*
@@ -237,7 +260,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 - [reveal.js](https://revealjs.com/) - The HTML presentation framework (**Open Source**).
 
 ## Writing
-*Instruments for article writing.*
+*Instruments for article writing and publishing.*
 
 - Formats
     - [AsciiDoc](https://asciidoc.org/) - Text document format for writing articles, books. Supports AsciiMath, MathML and LaTeX formulas.

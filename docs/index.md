@@ -192,6 +192,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [ROOT](https://root.cern.ch/) - Data analysis framework for C++ (**Open Source**).
 - IDE / CAS
     - [Axiom](http://www.axiom-developer.org/) - General-purpose computer algebra system (**Open Source**).
+    - [Deepnote](https://deepnote.com/) - Data science notebook for teams (**EULA / Freemium**).
     - [GNU Octave](https://www.gnu.org/software/octave/index) - Mathematics-oriented language and IDE with visualization tools (**Open Source**).
     - [Google Colaboratory](https://colab.research.google.com/) - Python code in browser with access to GPU and TPU (**EULA / Free**).
     - [Google Docs](https://docs.google.com/document/?usp=mkt_docs) - Online office with spreadsheet (**EULA / Free**).

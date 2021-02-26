@@ -95,7 +95,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [Element.io](https://element.io/) - Cross-platform messenger based on Matrix protocol (**Open Source**).
     - [Freenode](http://freenode.net/) - IRC-network (**Open Source**).
     - [Slack](https://slack.com/intl/en-ru/) - Business communication platform (**EULA / Freemium**).
-    - [Telegram Messenger](https://telegram.org/) - Instant messaging application (**Open Source** (clients), **Proprietary** (server)).
+    - [Telegram Messenger](https://telegram.org/) - Instant messaging application (**Open Source** (client), **Proprietary** (server)).
 - Project Management
     - [Azure DevOps](https://azure.microsoft.com/services/devops/) - Version control, reporting, requirements management, project management and more (**EULA / Freemium**).
     - [GitHub](https://github.com/) - Hosting for IT projects and version control. Can be used for general purpose projects (including scientific) (**EULA / Freemium**).
@@ -104,6 +104,8 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [Jira](https://www.atlassian.com/software/jira) - Bug tracking and agile project management (**EULA / Freemium**).
     - [Kanboard](https://kanboard.org/) - Kanban project management software (**Open Source**).
     - [Notion](https://www.notion.so/) - Note taking, wiki and project management application (**EULA / Freemium**).
+    - [Obsidian](https://obsidian.md/) - Powerful knowledge base that works on top of
+a local folder of plain text Markdown files.
     - [Redmine](https://www.redmine.org/) - Flexible project management web application (**Open Source**).
     - [Restyaboard](https://restya.com/board/) - Kanban board for task management (**Open Source**).
     - [Taiga Agile](https://www.taiga.io/) - Project management tool for multi-functional agile teams (**Open Source**).
@@ -168,6 +170,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 *Storages for scientific data.*
 
 - Repositories
+    - [DVC (Data Version Control)](https://dvc.org/) - Open-source Version Control System for Machine Learning Projects.
     - [figshare](https://figshare.com/) - Storage for research content.
 - Databases
     - [MariaDB](https://mariadb.org/) - Relational database.
@@ -194,6 +197,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
         - [PyTorch](https://pytorch.org/) - Machine learning framework (**Open Source**).
         - [TensorFlow](https://www.tensorflow.org/) - Platform for machine learning (**Open Source**).
     - Python
+        - [Diofant](https://diofant.readthedocs.io/en/latest/) - Python library for symbolic mathematics (fork of the _SymPy_).
         - [Gensim](https://radimrehurek.com/gensim/) - An open-source library for unsupervised topic modeling and natural language processing, using modern statistical machine learning (**Open Source**).
         - [NetworkX](https://networkx.org/) - A Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks (**Open Source**).
         - [Natural Language Toolkit (NLTK)](https://www.nltk.org/) - A suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English written in the Python programming language (**Open Source**).
@@ -248,6 +252,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 - [diagrams.net](https://www.diagrams.net/) - Diagram Software and Flowchart Maker (**Open Source**).
 - [flowchart.js](https://flowchart.js.org/) - Draws simple SVG flow chart diagrams from textual representation of the diagram (**Open Source**).
 - [gnuplot](http://www.gnuplot.info/) - Portable command-line driven graphing utility (**Open Source**).
+- [Grafana](https://grafana.com/) - Multi-platform open source analytics and interactive visualization web application (**Open Source**).
 - [LibreOffice Draw](https://www.libreoffice.org/) - Vector graphical editor based on *Apache OpenOffice Draw* (**Open Source**).
 - [Matplotlib](https://matplotlib.org/) - Visualization library for Python (**Open Source**).
     - [seaborn](https://seaborn.pydata.org/) - Library for making statistical graphics in Python (**Open Source**).
@@ -304,10 +309,13 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
         - [OpenOffice Math](http://www.openoffice.org/) - A tool for creating and editing mathematical formulae (**Open Source**).
     - [Overleaf](https://www.overleaf.com/) - Online LaTeX Editor (**Open Source / Freemium**).
     - Visual Studio Code
+        - [CodeSandbox](https://codesandbox.io/) - Online Code Editor and IDE for Rapid Web Development (**Open Source**, **Proprietary** (server)).
+        - [Codespaces](https://github.com/features/codespaces) - Online development environment, hosted by GitHub and powered by Visual Studio Code, that allows you to develop entirely in the cloud (**EULA / Free**).
         - [Visual Studio Code](https://code.visualstudio.com/) - High extensible text editor  (**Open Source**).
         - [VSCodium](https://vscodium.com/) - High extensible text editor based on *Visual Studio Code* (**Open Source**).
         - Plugins
             - [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/) - Powerful markdown extension for *Atom* and *Visual Studio Code* with LaTeX math, diagrams and etc. support (**Open Source**).
+    - [StackEdit](https://stackedit.io/) - In-browser Markdown editor (**Open Source**).
 
 # Contributing
 Your assistance will be very helpful. Let's build *Awesome Science* together!

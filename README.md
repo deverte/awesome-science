@@ -29,6 +29,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 ---
 
 ## MOOCs
+
 *Massive open online courses.*
 
 - [Coursera](https://www.coursera.org/) - MOOC founded by Stanford University's professors.
@@ -40,12 +41,14 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 - [Открытое образование](https://openedu.ru/) - Courses of leading Russian universities.
 
 ## Services
+
 *Services helpful for scientific work.*
 
 - [PhysicsOverflow](https://physicsoverflow.org/) - Q&A system for physics.
 - [Scimago Journal & Country Rank](https://www.scimagojr.com/) - Journal and country rankings.
 
 ## Archives
+
 *Archives with scholarly articles.*
 
 - E-Print
@@ -59,20 +62,22 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 - Libraries
     - [HAL](https://hal.archives-ouvertes.fr/) - Open archive for scholarly documents.
     - [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp) - IEEE archive.
-    - [Library Genesis](http://libgen.lc/) - Shadow library for scientific and general-interest books ([warning](https://en.wikipedia.org/wiki/Shadow_library)).
+    - [Library Genesis](https://libgen.fun/) - Shadow library for scientific and general-interest books ([warning](https://en.wikipedia.org/wiki/Shadow_library)).
         - [@libgen_book_bot - Telegram](https://t.me/libgen_book_bot) - Unofficial Libgen bot for Telegram Messenger.
     - [PeerJ](https://peerj.com/) - Open access peer-reviewed scientific mega journal covering research in the biological and medical sciences.
+    - [Z-Library](https://z-lib.org/) - Shadow library project for file-sharing access to pirated scholarly journal articles, academic texts, and general-interest books without the permission of authors or payment to them ([warning](https://en.wikipedia.org/wiki/Shadow_library)).
     - [КиберЛенинка](https://cyberleninka.ru/) - Open science Russian library.
 - Search engines
     - [CiteSeerX](http://citeseerx.ist.psu.edu/) - Search engine for scientific and academic papers.
     - [Google Scholar](https://scholar.google.com/) - Web search engine for scholarly literature.
     - [PeerLibrary](https://peerlibrary.org/) - Search engine for academic publications and people.
     - [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - Citations for biomedical literature.
-    - [Sci-Hub](https://sci-hub.do/) - Shadow library website with access to research papers ([warning](https://en.wikipedia.org/wiki/Shadow_library)).
+    - [Sci-Hub](https://vk.com/sci_hub) - Shadow library website with access to research papers ([warning](https://en.wikipedia.org/wiki/Shadow_library)).
         - [@scihubot - Telegram](https://t.me/scihubot) - Official Sci-Hub bot for Telegram Messenger.
     - [Semantic Scholar](https://www.semanticscholar.org/) - Scientific literature search engine.
 
 ## Literature Management
+
 *Reference managers and literature organizers.*
 
 - [BibTeX](http://tug.org/bibtex/) - Reference management software for formatting lists of references (**Open Source**).
@@ -83,12 +88,14 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 - [Zotero](https://www.zotero.org/) - Program for collecting, orginizing, synchronizing and citing scientific literature (**Open Source**).
 
 ## Social
+
 *Scientific communication.*
 
 - [Academia.edu](https://www.academia.edu/) - Paper sharing service.
 - [ResearchGate](https://www.researchgate.net/) - Scientific social network.
 
 ## Project Management
+
 *Scientific projects management.*
 
 - Communication
@@ -130,6 +137,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [VuePress](https://vuepress.vuejs.org/) - Vue-powered Static Site Generator (**Open Source**).
 
 ## Engineering
+
 *Experimental device creation and automation tools.*
 
 - Material and element base
@@ -150,6 +158,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [SOLIDWORKS](https://www.solidworks.com/) - Solid modeling computer-aided design (CAD) and computer-aided engineering (CAE) computer program (**EULA / Commercial**).
 
 ## Instruments
+
 *Modeling, calculations and etc.*
 
 - Universal
@@ -170,6 +179,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [Xcos](https://www.scilab.org/software/xcos) - Dynamic systems modeler and simulator in discrete and continuous time domains (**Open Source**).
 
 ## Data Storage
+
 *Storages for scientific data.*
 
 - Repositories
@@ -181,6 +191,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [PostgreSQL](https://www.postgresql.org/) - Relational database.
 
 ## Data Processing
+
 *Data processing software, libraries and platforms.*
 
 - Languages
@@ -259,6 +270,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [Wolfram Mathematica](https://www.wolfram.com/mathematica/) - Technical calculations (**EULA / Commercial**).
 
 ## Data Visualization
+
 *Data visualization software and libraries.*
 
 - [Bokeh](https://bokeh.org/) - An interactive visualization library for modern web browsers (**Open Source**).
@@ -281,6 +293,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 - [Shiny](https://shiny.rstudio.com/) - An R package that makes it easy to build interactive web apps straight from R (**Open Source**).
 
 ## Presentation
+
 *Presentation of your project.*
 
 - [beamer](https://ctan.org/pkg/beamer) - LaTeX class for producting slides (**Open Source**).
@@ -292,6 +305,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 - [reveal.js](https://revealjs.com/) - The HTML presentation framework (**Open Source**).
 
 ## Writing
+
 *Instruments for article writing and publishing.*
 
 - Formats
@@ -334,6 +348,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [StackEdit](https://stackedit.io/) - In-browser Markdown editor (**Open Source**).
 
 # Contributing
+
 Your assistance will be very helpful. Let's build *Awesome Science* together!
 
 For contributing you can write to project's [Issues](https://github.com/deverte/awesome-science/issues) or to [Discord](https://discord.gg/Fc9u6yEzRH) chat.

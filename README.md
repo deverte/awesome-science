@@ -1,15 +1,14 @@
 # Awesome Science
 
-![Logo](docs/images/logo.png)
+[![Logo](docs/images/logo.png)](https://deverte.github.io/awesome-science/)
+
+Website version: [Awesome Science](https://deverte.github.io/awesome-science/).
 
 A currated list of awesome scientific software, libraries and services.
 
 Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 
 ---
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
-<!-- code_chunk_output -->
 
 - [Awesome Science](#awesome-science)
   - [MOOCs](#moocs)
@@ -27,7 +26,6 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
   - [Writing](#writing)
 - [Contributing](#contributing)
 
-<!-- /code_chunk_output -->
 ---
 
 ## MOOCs
@@ -62,6 +60,8 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [HAL](https://hal.archives-ouvertes.fr/) - Open archive for scholarly documents.
     - [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp) - IEEE archive.
     - [Library Genesis](http://libgen.lc/) - Shadow library for scientific and general-interest books ([warning](https://en.wikipedia.org/wiki/Shadow_library)).
+        - [@libgen_book_bot - Telegram](https://t.me/libgen_book_bot) - Unofficial Libgen bot for Telegram Messenger.
+    - [PeerJ](https://peerj.com/) - Open access peer-reviewed scientific mega journal covering research in the biological and medical sciences.
     - [КиберЛенинка](https://cyberleninka.ru/) - Open science Russian library.
 - Search engines
     - [CiteSeerX](http://citeseerx.ist.psu.edu/) - Search engine for scientific and academic papers.
@@ -69,6 +69,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [PeerLibrary](https://peerlibrary.org/) - Search engine for academic publications and people.
     - [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - Citations for biomedical literature.
     - [Sci-Hub](https://sci-hub.do/) - Shadow library website with access to research papers ([warning](https://en.wikipedia.org/wiki/Shadow_library)).
+        - [@scihubot - Telegram](https://t.me/scihubot) - Official Sci-Hub bot for Telegram Messenger.
     - [Semantic Scholar](https://www.semanticscholar.org/) - Scientific literature search engine.
 
 ## Literature Management
@@ -95,7 +96,9 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [Element.io](https://element.io/) - Cross-platform messenger based on Matrix protocol (**Open Source**).
     - [Freenode](http://freenode.net/) - IRC-network (**Open Source**).
     - [Slack](https://slack.com/intl/en-ru/) - Business communication platform (**EULA / Freemium**).
-    - [Telegram Messenger](https://telegram.org/) - Instant messaging application (**Open Source** (client), **Proprietary** (server)).
+    - [Telegram Messenger](https://telegram.org/) - Instant messaging application with a bots platform (**Open Source** (client), **Proprietary** (server)).
+        - [@libgen_book_bot - Telegram](https://t.me/libgen_book_bot) - Unofficial Libgen bot for Telegram Messenger.
+        - [@scihubot - Telegram](https://t.me/scihubot) - Official Sci-Hub bot for Telegram Messenger.
 - Project Management
     - [Azure DevOps](https://azure.microsoft.com/services/devops/) - Version control, reporting, requirements management, project management and more (**EULA / Freemium**).
     - [GitHub](https://github.com/) - Hosting for IT projects and version control. Can be used for general purpose projects (including scientific) (**EULA / Freemium**).
@@ -104,8 +107,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [Jira](https://www.atlassian.com/software/jira) - Bug tracking and agile project management (**EULA / Freemium**).
     - [Kanboard](https://kanboard.org/) - Kanban project management software (**Open Source**).
     - [Notion](https://www.notion.so/) - Note taking, wiki and project management application (**EULA / Freemium**).
-    - [Obsidian](https://obsidian.md/) - Powerful knowledge base that works on top of
-a local folder of plain text Markdown files.
+    - [Org mode](https://orgmode.org/) - GNU Emacs major mode for keeping notes, authoring documents, computational notebooks, literate programming, maintaining to-do lists, planning projects, and more — in a fast and effective plain text system (**Open Source**).
     - [Redmine](https://www.redmine.org/) - Flexible project management web application (**Open Source**).
     - [Restyaboard](https://restya.com/board/) - Kanban board for task management (**Open Source**).
     - [Taiga Agile](https://www.taiga.io/) - Project management tool for multi-functional agile teams (**Open Source**).
@@ -123,6 +125,7 @@ a local folder of plain text Markdown files.
     - [Jekyll](https://jekyllrb.com/) - Simple, blog-aware, static sites (**Open Source**).
     - [MkDocs](https://www.mkdocs.org/) - A fast, simple and downright gorgeous static site generator that's geared towards building project documentation (**Open Source**).
     - [Notion](https://www.notion.so/) - Note taking, wiki and project management application (**EULA / Freemium**).
+    - [Obsidian](https://obsidian.md/) - Powerful knowledge base that works on top of a local folder of plain text Markdown files (**EULA / Freemium**).
     - [Read the Docs](https://readthedocs.org/) - Read the Docs hosts documentation for the open source community (**Open Source**).
     - [VuePress](https://vuepress.vuejs.org/) - Vue-powered Static Site Generator (**Open Source**).
 
@@ -187,9 +190,16 @@ a local folder of plain text Markdown files.
         - [Numba](https://numba.pydata.org/) - JIT compiler that translates a subset of Python and NumPy code into fast machine code (**Open Source**).
     - [R](https://www.r-project.org/) - Statistical computing and graphics.
 - Libraries
+    - Multi-language
+        - [Apache Arrow](https://arrow.apache.org/) - Cross-language development platform for in-memory analytics (**Open Source**).
     - C/C++
+        - [Boost C++ Libraries](https://www.boost.org/) - Free peer-reviewed portable C++ source libraries (**Open Source**).
+        - [OpenCL](https://www.khronos.org/api/opencl) - Open, royalty-free standard for cross-platform, parallel programming of diverse accelerators found in supercomputers, cloud servers, personal computers, mobile devices and embedded platforms (**EULA**).
         - [PyTorch](https://pytorch.org/) - Machine learning framework (**Open Source**).
+        - [ROOT](https://root.cern.ch/) - Data analysis framework for C++ (**Open Source**).
         - [TensorFlow](https://www.tensorflow.org/) - Platform for machine learning (**Open Source**).
+        - [Xframe](https://xframe.readthedocs.io/en/latest/) - C++ library meant for numerical analysis with multi-dimensional labeled array expressions (also referred as variable expressions) and data frame expressions (**Open Source**).
+        - [Xtensor](https://xtensor.readthedocs.io/en/latest/) - C++ library meant for numerical analysis with multi-dimensional array expressions (**Open Source**).
     - Go
         - [Gonum](https://www.gonum.org/) - A set of packages designed to make writing numerical and scientific algorithms productive, performant, and scalable (**Open Source**).
         - [TensorFlow](https://www.tensorflow.org/) - Platform for machine learning (**Open Source**).
@@ -197,6 +207,7 @@ a local folder of plain text Markdown files.
         - [PyTorch](https://pytorch.org/) - Machine learning framework (**Open Source**).
         - [TensorFlow](https://www.tensorflow.org/) - Platform for machine learning (**Open Source**).
     - Python
+        - [Astropy](https://www.astropy.org/) - Community effort to develop a common core package for Astronomy in Python (**Open Source**).
         - [Diofant](https://diofant.readthedocs.io/en/latest/) - Python library for symbolic mathematics (fork of the _SymPy_).
         - [Gensim](https://radimrehurek.com/gensim/) - An open-source library for unsupervised topic modeling and natural language processing, using modern statistical machine learning (**Open Source**).
         - [NetworkX](https://networkx.org/) - A Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks (**Open Source**).
@@ -213,8 +224,10 @@ a local folder of plain text Markdown files.
         - [TensorFlow](https://www.tensorflow.org/) - Platform for machine learning (**Open Source**).
 - Platforms
     - [Anaconda](https://anaconda.org/) - Python and R distribution with many scientific libraries (**Open Source / Freemium**).
+        - [Conda](https://docs.conda.io/en/latest/) - Package, dependency and environment management for any language—Python, R, Ruby, Lua, Scala, Java, JavaScript, C/ C++, FORTRAN, and more (**Open Source**).
+        - [Mamba](https://mamba.readthedocs.io/en/latest/index.html) - Fast, robust, and cross-platform package manager (**Open Source**).
     - [JupyterLab / Jupyter Notebook](https://jupyter.org/) - Interactive documents with live code, equations and visualization for [many languages](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) (**Open Source**).
-    - [ROOT](https://root.cern.ch/) - Data analysis framework for C++ (**Open Source**).
+        - [Xeus Cling](https://xeus-cling.readthedocs.io/en/latest/index.html) - Jupyter kernel for C++ based on the C++ interpreter cling and the native implementation of the Jupyter protocol xeus (**Open Source**).
 - IDE / CAS
     - [Axiom](http://www.axiom-developer.org/) - General-purpose computer algebra system (**Open Source**).
     - [Deepnote](https://deepnote.com/) - Data science notebook for teams (**EULA / Freemium**).
@@ -254,14 +267,17 @@ a local folder of plain text Markdown files.
 - [gnuplot](http://www.gnuplot.info/) - Portable command-line driven graphing utility (**Open Source**).
 - [Grafana](https://grafana.com/) - Multi-platform open source analytics and interactive visualization web application (**Open Source**).
 - [LibreOffice Draw](https://www.libreoffice.org/) - Vector graphical editor based on *Apache OpenOffice Draw* (**Open Source**).
+- [Manim](https://docs.manim.community/en/stable/) - Engine for precise programmatic animations, designed for creating explanatory math videos (**Open Source**).
 - [Matplotlib](https://matplotlib.org/) - Visualization library for Python (**Open Source**).
     - [seaborn](https://seaborn.pydata.org/) - Library for making statistical graphics in Python (**Open Source**).
 - [mermaid](https://mermaid-js.github.io/mermaid/) - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs (**Open Source**).
 - [Microsoft Visio](https://www.microsoft.com/microsoft-365/visio/flowchart-software) - Diagramming and vector graphics application (**EULA / Commercial**).
 - [OpenOffice Draw](http://www.openoffice.org/) - Vector graphical editor (**Open Source**).
+- [ParaView](https://www.paraview.org/) - Open-source, multi-platform data analysis and visualization application (**Open Source**).
 - [Plotly](https://plotly.com/) - Library for data visualization and dashboards (**Open Source**).
     - [Dash](https://plotly.com/dash/) - A productive Python framework for building web analytic applications (**Open Source**).
 - [PyQtGraph](http://www.pyqtgraph.org/) - Scientific Graphics and GUI Library for Python (**Open Source**).
+- [QCustomPlot](https://www.qcustomplot.com/) - Qt C++ widget for plotting and data visualization (**Open Source**).
 - [Shiny](https://shiny.rstudio.com/) - An R package that makes it easy to build interactive web apps straight from R (**Open Source**).
 
 ## Presentation

@@ -1,3 +1,9 @@
+<!--
+This file was generated automatically.
+Please, edit files inside /contents/.
+Generation instructuins are stored in /justfile.
+-->
+
 # Awesome Science
 
 [![Logo](docs/images/logo.png)](https://deverte.github.io/awesome-science/)
@@ -159,7 +165,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 
 ## Instruments
 
-*Modeling, calculations and etc.*
+*Modeling, domain-specific calculations and etc.*
 
 - Universal
     - [Blender](https://www.blender.org/) - 3D computer graphics software toolset with ability to simulate physical, chemical, biological, ... systems with game engines (**Open Source**).
@@ -190,21 +196,34 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [MySQL](https://www.mysql.com/) - Relational database.
     - [PostgreSQL](https://www.postgresql.org/) - Relational database.
 
-## Data Processing
+## Calculations and Data Processing
 
-*Data processing software, libraries and platforms.*
+*General-purpose calculations (numerical, analytical, symbolic) and data processing software, libraries and platforms.*
 
 - Languages
+    - [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php) - Functional programming language and proof assistant.
+    - [C](https://www.iso.org/standard/74528.html) - Low-level general purpose language with high performance.
     - [C++](https://isocpp.org/) - General purpose language with high performance.
+    - [Coq](https://coq.inria.fr/) - Proof assistant.
+    - [Idris](https://www.idris-lang.org/) - Programming language and theorem prover.
     - [Julia](https://julialang.org/) - Language for mathematical computations with high performance.
+    - [Lean](https://lean-lang.org/) - Programming language and theorem prover with extensive math library.
+    - [MATLAB](https://www.mathworks.com/products/matlab.html) - Programming and numeric platform (**EULA**).
+    - [Octave](https://octave.org/) - Scientific programming language almost compatible with MATLAB.
     - [Python](https://www.python.org/) - General purpose language with many scientific libraries.
         - [Numba](https://numba.pydata.org/) - JIT compiler that translates a subset of Python and NumPy code into fast machine code (**Open Source**).
     - [R](https://www.r-project.org/) - Statistical computing and graphics.
+    - [Scilab](https://www.scilab.org/) - Software for numerical computation partially compatible with MATLAB.
+    - [Wolfram Language](https://www.wolfram.com/language/) - Mathematical language.
+        - [Wolfram Mathematica](https://www.wolfram.com/mathematica/) - Computer algebra system, official implementation of Wolfram Language (**EULA**).
+    - Universal binary formats, languages interaction
+        - [WebAssembly (Wasm)](https://webassembly.org/) - Universal inter-language binary format.
 - Libraries
     - Multi-language
         - [Apache Arrow](https://arrow.apache.org/) - Cross-language development platform for in-memory analytics (**Open Source**).
     - C/C++
         - [Boost C++ Libraries](https://www.boost.org/) - Free peer-reviewed portable C++ source libraries (**Open Source**).
+        - [Eigen](https://eigen.tuxfamily.org/index.php) - C++ template library for linear algebra (**Open Source**).
         - [OpenCL](https://www.khronos.org/api/opencl) - Open, royalty-free standard for cross-platform, parallel programming of diverse accelerators found in supercomputers, cloud servers, personal computers, mobile devices and embedded platforms (**EULA**).
         - [PyTorch](https://pytorch.org/) - Machine learning framework (**Open Source**).
         - [ROOT](https://root.cern.ch/) - Data analysis framework for C++ (**Open Source**).
@@ -221,6 +240,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
         - [Astropy](https://www.astropy.org/) - Community effort to develop a common core package for Astronomy in Python (**Open Source**).
         - [Diofant](https://diofant.readthedocs.io/en/latest/) - Python library for symbolic mathematics (fork of the _SymPy_).
         - [Gensim](https://radimrehurek.com/gensim/) - An open-source library for unsupervised topic modeling and natural language processing, using modern statistical machine learning (**Open Source**).
+        - [JAX](https://jax.readthedocs.io/en/latest/index.html) - High performance array computing (**Open Source**).
         - [NetworkX](https://networkx.org/) - A Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks (**Open Source**).
         - [Natural Language Toolkit (NLTK)](https://www.nltk.org/) - A suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English written in the Python programming language (**Open Source**).
         - [Open Neural Network Exchange (ONNX)](https://onnx.ai/index.html) - An open format built to represent machine learning models (**Open Source**).
@@ -233,12 +253,14 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
             - [SymPy](https://www.sympy.org/en/index.html) - Symbolic mathematics (**Open Source**).
         - [statsmodels](https://www.statsmodels.org/) - Python module for statistical models (**Open Source**).
         - [TensorFlow](https://www.tensorflow.org/) - Platform for machine learning (**Open Source**).
+        - [Tidyverse](https://www.tidyverse.org/) - R packages for data science (**Open Source**).
 - Platforms
     - [Anaconda](https://anaconda.org/) - Python and R distribution with many scientific libraries (**Open Source / Freemium**).
         - [Conda](https://docs.conda.io/en/latest/) - Package, dependency and environment management for any language—Python, R, Ruby, Lua, Scala, Java, JavaScript, C/ C++, FORTRAN, and more (**Open Source**).
         - [Mamba](https://mamba.readthedocs.io/en/latest/index.html) - Fast, robust, and cross-platform package manager (**Open Source**).
     - [JupyterLab / Jupyter Notebook](https://jupyter.org/) - Interactive documents with live code, equations and visualization for [many languages](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) (**Open Source**).
         - [Xeus Cling](https://xeus-cling.readthedocs.io/en/latest/index.html) - Jupyter kernel for C++ based on the C++ interpreter cling and the native implementation of the Jupyter protocol xeus (**Open Source**).
+    - [Observable](https://observablehq.com/) - Interactive JavaScript environment and dashboards (**Open Source**).
 - IDE / CAS
     - [Axiom](http://www.axiom-developer.org/) - General-purpose computer algebra system (**Open Source**).
     - [Deepnote](https://deepnote.com/) - Data science notebook for teams (**EULA / Freemium**).
@@ -273,24 +295,37 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 
 *Data visualization software and libraries.*
 
+- [Asymptote](https://asymptote.sourceforge.io/) - Vector graphics language (**Open Source**).
 - [Bokeh](https://bokeh.org/) - An interactive visualization library for modern web browsers (**Open Source**).
+- [D3](https://d3js.org/) - JavaScript library for data visualization (**Open Source**).
 - [diagrams.net](https://www.diagrams.net/) - Diagram Software and Flowchart Maker (**Open Source**).
 - [flowchart.js](https://flowchart.js.org/) - Draws simple SVG flow chart diagrams from textual representation of the diagram (**Open Source**).
+- [Gadfly.jl](http://gadflyjl.org/stable/) - Plotting and visualization system in Julia (**Open Source**).
+- [ggplot2](https://ggplot2.tidyverse.org/) - Declarative graphics system for R, part of Tidyverse (**Open Source**).
 - [gnuplot](http://www.gnuplot.info/) - Portable command-line driven graphing utility (**Open Source**).
 - [Grafana](https://grafana.com/) - Multi-platform open source analytics and interactive visualization web application (**Open Source**).
 - [LibreOffice Draw](https://www.libreoffice.org/) - Vector graphical editor based on *Apache OpenOffice Draw* (**Open Source**).
-- [Manim](https://docs.manim.community/en/stable/) - Engine for precise programmatic animations, designed for creating explanatory math videos (**Open Source**).
+- [Manim](https://docs.manim.community/en/stable/) - Engine for precise programmatic animations, designed for creating explanatory math videos (community edition) (**Open Source**).
+- [ManimGL](https://3b1b.github.io/manim/index.html) - Engine for precise programmatic animations, designed for creating explanatory math videos (original) (**Open Source**).
+- [Makie](https://docs.makie.org/stable/) - Interactive data visualizations and plotting in Julia (**Open Source**).
 - [Matplotlib](https://matplotlib.org/) - Visualization library for Python (**Open Source**).
     - [seaborn](https://seaborn.pydata.org/) - Library for making statistical graphics in Python (**Open Source**).
+- [Mayavi](https://docs.enthought.com/mayavi/mayavi/) - 3D scientific data visualization and plotting in Python for the Visualization Toolkit (VTK) (**Open Source**).
 - [mermaid](https://mermaid-js.github.io/mermaid/) - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs (**Open Source**).
 - [Microsoft Visio](https://www.microsoft.com/microsoft-365/visio/flowchart-software) - Diagramming and vector graphics application (**EULA / Commercial**).
+- [Observable](https://observablehq.com/) - Interactive JavaScript environment and dashboards (**Open Source**).
+- [Observable Plot](https://observablehq.com/plot/) - JavaScript library for data visualization (**Open Source**).
 - [OpenOffice Draw](http://www.openoffice.org/) - Vector graphical editor (**Open Source**).
 - [ParaView](https://www.paraview.org/) - Open-source, multi-platform data analysis and visualization application (**Open Source**).
+- [PGF/TikZ](https://github.com/pgf-tikz/pgf) - Portable graphic format for TeX (**Open Source**).
 - [Plotly](https://plotly.com/) - Library for data visualization and dashboards (**Open Source**).
     - [Dash](https://plotly.com/dash/) - A productive Python framework for building web analytic applications (**Open Source**).
 - [PyQtGraph](http://www.pyqtgraph.org/) - Scientific Graphics and GUI Library for Python (**Open Source**).
+- [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK) (**Open Source**).
 - [QCustomPlot](https://www.qcustomplot.com/) - Qt C++ widget for plotting and data visualization (**Open Source**).
 - [Shiny](https://shiny.rstudio.com/) - An R package that makes it easy to build interactive web apps straight from R (**Open Source**).
+- [Vega](https://vega.github.io/vega/) - Visualization grammar (**Open Source**).
+- [VTK](https://vtk.org/) - 3D computer graphics toolkit (**Open Source**).
 
 ## Presentation
 
@@ -299,9 +334,11 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 - [beamer](https://ctan.org/pkg/beamer) - LaTeX class for producting slides (**Open Source**).
 - [Google Docs](https://docs.google.com/document/?usp=mkt_docs) - Online office with presentations (**EULA / Free**).
 - [LibreOffice Impress](https://www.libreoffice.org/) - A presentation program based on *Apache OpenOffice Impress* (**Open Source**).
+- [Marp](https://marp.app/) - Markdown Presentation Ecosystem (**Open Source**).
 - [Microsoft PowerPoint](https://www.microsoft.com/ru-ru/microsoft-365/powerpoint) - WYSWYG text processor (**EULA / Commercial**).
 - [ONLYOFFICE](https://www.onlyoffice.com/) - Office almost fully compatible with *Microsoft Office* (**Open Source**).
 - [OpenOffice Impress](http://www.openoffice.org/) - A presentation program (**Open Source**).
+- [Quarto](https://quarto.org/) - Publishing system with styled Pandoc converters (**Open Source**).
 - [reveal.js](https://revealjs.com/) - The HTML presentation framework (**Open Source**).
 
 ## Writing
@@ -315,6 +352,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [Markdown](https://daringfireball.net/projects/markdown/) - Lightweight markup language and text-to-HTML conversion tool. Some converters are supporting LaTeX math, diagrams and so on.
     - [R Markdown](https://rmarkdown.rstudio.com/) - Dynamic documents for R language and more.
     - [reStructuredText](https://docutils.sourceforge.io/rst.html) - Plaintext markup syntax and parser system (natively supports LaTeX math).
+    - [Typst](https://typst.app/) - Scientific documents format, full-featured alternative to LaTeX.
     - Math typesetting
         - [KaTeX](https://katex.org/) - The fastest math typesetting library for the web.
         - [LaTeX](https://www.latex-project.org/) - Markup language with math expressions.
@@ -323,7 +361,8 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - Converters
         - [Asciidoctor](https://asciidoctor.org/) - A fast, open source text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook, PDF, and other formats.
         - [Docutils](https://docutils.sourceforge.io/index.html) - Plaintext processor.
-        - [Pandoc](https://pandoc.org/) - Markup formats converter.
+        - [Pandoc](https://pandoc.org/) - Markup formats converter, including LaTeX, Word (docx), Power Point (pptx), Markdown, Typst and other.
+        - [Quarto](https://quarto.org/) - Publishing system with styled Pandoc converters.
 - Programs
     - [Atom](https://atom.io/) - High extensible text editor built on Electron framework (**Open Source**).
         - Plugins
@@ -339,7 +378,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
         - [OpenOffice Math](http://www.openoffice.org/) - A tool for creating and editing mathematical formulae (**Open Source**).
     - [Overleaf](https://www.overleaf.com/) - Online LaTeX Editor (**Open Source / Freemium**).
     - Visual Studio Code
-        - [CodeSandbox](https://codesandbox.io/) - Online Code Editor and IDE for Rapid Web Development (**Open Source**, **Proprietary** (server)).
+        - [CodeSandbox](https://codesandbox.io/) - Online Code Editor and IDE for Rapid Web Development (**Open Source** (client), **Proprietary** (server)).
         - [Codespaces](https://github.com/features/codespaces) - Online development environment, hosted by GitHub and powered by Visual Studio Code, that allows you to develop entirely in the cloud (**EULA / Free**).
         - [Visual Studio Code](https://code.visualstudio.com/) - High extensible text editor  (**Open Source**).
         - [VSCodium](https://vscodium.com/) - High extensible text editor based on *Visual Studio Code* (**Open Source**).

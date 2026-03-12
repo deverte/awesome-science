@@ -87,6 +87,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 *Reference managers and literature organizers.*
 
 - [BibTeX](http://tug.org/bibtex/) - Reference management software for formatting lists of references (**Open Source**).
+- [CiteMe](https://citeme.app/) - Academic citation generator that searches OpenAlex, CrossRef, PubMed and Semantic Scholar, formatting references in 40+ CSL styles (**EULA / Freemium**).
 - [EndNote](https://endnote.com/) - Bibliography information and reference manager (**EULA / Commercial**).
 - [JabRef](https://www.jabref.org/) - Reference manager (**Open Source**).
 - [Mendeley](https://www.mendeley.com/) - Reference and literature collection manager with PDFs annotation (**EULA / Free**).

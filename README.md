@@ -368,6 +368,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [Atom](https://atom.io/) - High extensible text editor built on Electron framework (**Open Source**).
         - Plugins
             - [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/) - Powerful markdown extension for *Atom* and *Visual Studio Code* with LaTeX math, diagrams and etc. support (**Open Source**).
+    - [CAJAL](https://github.com/Agnuxo1/CAJAL) - Local-first scientific paper generator powered by fine-tuned LLMs (4B-9B). Produces structured IMRaD drafts with simulated peer review. Optional online citation lookup via arXiv/CrossRef with offline fallback (**Open Source**).
     - [Google Docs](https://docs.google.com/document/?usp=mkt_docs) - Online office with word processor (**EULA / Free**).
     - [LibreOffice Writer](https://www.libreoffice.org/) - WYSWYG text processor based on *Apache OpenOffice Writer* (**Open Source**).
         - [LibreOffice Math](https://www.libreoffice.org/) - An application designed for creating and editing mathematical formulae based on *Apache OpenOffice Math* (**Open Source**).

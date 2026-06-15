@@ -66,6 +66,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [Z-Library](https://z-lib.org/) - Shadow library project for file-sharing access to pirated scholarly journal articles, academic texts, and general-interest books without the permission of authors or payment to them.
     - [КиберЛенинка](https://cyberleninka.ru/) - Open science Russian library.
 - Search engines
+    - [BGPT](https://bgpt.pro/mcp/) - Extracts structured evidence from full-text papers (methods, sample sizes, limitations, falsification criteria, quality scores) via MCP and REST API (**Open Source / Freemium**).
     - [CiteSeerX](http://citeseerx.ist.psu.edu/) - Search engine for scientific and academic papers.
     - [Google Scholar](https://scholar.google.com/) - Web search engine for scholarly literature.
     - [PeerLibrary](https://peerlibrary.org/) - Search engine for academic publications and people.

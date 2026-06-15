@@ -1,14 +1,6 @@
-<!--
-This file was generated automatically.
-Please, edit files inside /contents/.
-Generation instructuins are stored in /justfile.
--->
-
 # Awesome Science
 
-[![Logo](docs/images/logo.png)](https://deverte.github.io/awesome-science/)
-
-Website version: [Awesome Science](https://deverte.github.io/awesome-science/).
+[![Logo](images/logo.png)](https://deverte.github.io/awesome-science/)
 
 A currated list of awesome scientific software, libraries and services.
 
@@ -64,21 +56,21 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [medRxiv](https://www.medrxiv.org/) - Preprint server for health sciences.
     - [PsyArXiv](https://psyarxiv.com/) - Preprint service for the psychological sciences.
     - [SocArXiv](https://osf.io/preprints/socarxiv) - Preprint service for the social sciences.
-    - [viXra.org](https://vixra.org/) - Unorthodox and fringe science e-print archive ([warning](https://webspace.science.uu.nl/~hooft101/fringe-oct-2017.pdf)).
+    - [viXra.org](https://vixra.org/) - [Unorthodox](https://webspace.science.uu.nl/~hooft101/fringe-oct-2017.pdf) science e-print archive.
 - Libraries
     - [HAL](https://hal.archives-ouvertes.fr/) - Open archive for scholarly documents.
     - [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp) - IEEE archive.
-    - [Library Genesis](https://libgen.fun/) - Shadow library for scientific and general-interest books ([warning](https://en.wikipedia.org/wiki/Shadow_library)).
+    - [Library Genesis](https://libgen.fun/) - Shadow library for scientific and general-interest books.
         - [@libgen_book_bot - Telegram](https://t.me/libgen_book_bot) - Unofficial Libgen bot for Telegram Messenger.
     - [PeerJ](https://peerj.com/) - Open access peer-reviewed scientific mega journal covering research in the biological and medical sciences.
-    - [Z-Library](https://z-lib.org/) - Shadow library project for file-sharing access to pirated scholarly journal articles, academic texts, and general-interest books without the permission of authors or payment to them ([warning](https://en.wikipedia.org/wiki/Shadow_library)).
+    - [Z-Library](https://z-lib.org/) - Shadow library project for file-sharing access to pirated scholarly journal articles, academic texts, and general-interest books without the permission of authors or payment to them.
     - [КиберЛенинка](https://cyberleninka.ru/) - Open science Russian library.
 - Search engines
     - [CiteSeerX](http://citeseerx.ist.psu.edu/) - Search engine for scientific and academic papers.
     - [Google Scholar](https://scholar.google.com/) - Web search engine for scholarly literature.
     - [PeerLibrary](https://peerlibrary.org/) - Search engine for academic publications and people.
     - [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - Citations for biomedical literature.
-    - [Sci-Hub](https://vk.com/sci_hub) - Shadow library website with access to research papers ([warning](https://en.wikipedia.org/wiki/Shadow_library)).
+    - [Sci-Hub](https://vk.com/sci_hub) - Shadow library website with access to research papers.
         - [@scihubot - Telegram](https://t.me/scihubot) - Official Sci-Hub bot for Telegram Messenger.
     - [Semantic Scholar](https://www.semanticscholar.org/) - Scientific literature search engine.
 
@@ -147,9 +139,6 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 
 *Experimental device creation and automation tools.*
 
-- Material and element base
-    - [AliExpress](https://www.aliexpress.com/) - Online retail service (including rich element and materials base).
-    - [eBay](https://www.ebay.com/) - Auction-style sales web site (including electrical equipment and etc.).
 - Software
     - [Altium Designer](https://www.altium.com/altium-designer/) - PCB and electronic design automation software package for printed circuit boards (**EULA / Commercial**).
     - [AutoCAD](https://www.autodesk.com/products/autocad/overview) - Computer-aided design (CAD) and drafting software application (**EULA / Commercial**).
@@ -390,6 +379,6 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 
 # Contributing
 
-Your assistance will be very helpful. Let's build *Awesome Science* together!
+Let's build *Awesome Science* together!
 
-For contributing you can write to project's [Issues](https://github.com/deverte/awesome-science/issues) or to [Discord](https://discord.gg/Fc9u6yEzRH) chat.
+For contributing please write to project's [Issues](https://github.com/deverte/awesome-science/issues).

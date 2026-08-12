@@ -235,6 +235,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
         - [NetworkX](https://networkx.org/) - A Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks (**Open Source**).
         - [Natural Language Toolkit (NLTK)](https://www.nltk.org/) - A suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English written in the Python programming language (**Open Source**).
         - [Open Neural Network Exchange (ONNX)](https://onnx.ai/index.html) - An open format built to represent machine learning models (**Open Source**).
+        - [Peptide Calculations](https://peptidomexico.com.mx/calculadora/) - Browser and Python/R tools for unit-aware peptide reconstitution, concentration, dilution and molarity calculations (**Open Source**).
         - [PyTorch](https://pytorch.org/) - Machine learning framework (**Open Source**).
         - [scikit-learn](https://www.sklearn.org/) - Machine learning library (**Open Source**).
         - [SciPy](https://www.scipy.org/) - Ecosystem for mathematics, science and engineering based on Python (**Open Source**).

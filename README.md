@@ -204,6 +204,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [Python](https://www.python.org/) - General purpose language with many scientific libraries.
         - [Numba](https://numba.pydata.org/) - JIT compiler that translates a subset of Python and NumPy code into fast machine code (**Open Source**).
     - [R](https://www.r-project.org/) - Statistical computing and graphics.
+    - [RunMat](https://github.com/runmat-org/runmat) - Open-source numerical computing runtime with MATLAB syntax and automatic GPU acceleration (**Open Source**).
     - [Scilab](https://www.scilab.org/) - Software for numerical computation partially compatible with MATLAB.
     - [Wolfram Language](https://www.wolfram.com/language/) - Mathematical language.
         - [Wolfram Mathematica](https://www.wolfram.com/mathematica/) - Computer algebra system, official implementation of Wolfram Language (**EULA**).

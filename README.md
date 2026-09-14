@@ -168,6 +168,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [Cirq](https://quantumai.google/cirq) - An open source framework for programming quantum computers (**Open Source**).
     - [IBM Quantum Experience](https://quantum-computing.ibm.com/) - Online platform for quantum processors prototyping (**EULA / Free**).
     - [PennyLane](https://pennylane.ai/) - Python library for differentiable programming of quantum computers (**Open Source**).
+    - [PUMA Analyzer](https://github.com/ameenalzubi0-bit/puma-analyzer-releases) - Estimates thin-film thickness and optical constants (n, k) from a measured transmission spectrum using a physics-based transmittance model and a compiled nonlinear-optimization engine (**Proprietary**).
     - [Qiskit](https://qiskit.org/) - An open source SDK for working with quantum computers at the level of pulses, circuits and application modules (**Open Source**).
     - [Quantum ESPRESSO](https://www.quantum-espresso.org/) - Suite for first-principles electronic-structure calculations and materials modeling (**Open Source**).
     - [QuTiP](http://qutip.org/) - Software for simulating the dynamics of open quantum systems (**Open Source**).

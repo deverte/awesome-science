@@ -381,6 +381,6 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 
 # Contributing
 
-Let's build *Awesome Science* together!
-
-For contributing please write to project's [Issues](https://github.com/deverte/awesome-science/issues).
+Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md)
+before opening a pull request. One project per PR, with evidence that the
+criteria are met.

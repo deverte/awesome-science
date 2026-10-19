@@ -384,3 +384,4 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md)
 before opening a pull request. One project per PR, with evidence that the
 criteria are met.
+- [FactCrumbs](https://factcrumbs.com/) - Sourced science and trivia explainers for general readers.

@@ -165,6 +165,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 - Chemistry
     - [Quantum ESPRESSO](https://www.quantum-espresso.org/) - Suite for first-principles electronic-structure calculations and materials modeling (**Open Source**).
 - Physics / Engineering
+    - [AgentFEM](https://github.com/haoming-luo/agentfem) - Finite-element workflows for mechanics and heat transfer, with readable Python models, command-line execution, and result verification (**Apache-2.0**).
     - [Cirq](https://quantumai.google/cirq) - An open source framework for programming quantum computers (**Open Source**).
     - [IBM Quantum Experience](https://quantum-computing.ibm.com/) - Online platform for quantum processors prototyping (**EULA / Free**).
     - [PennyLane](https://pennylane.ai/) - Python library for differentiable programming of quantum computers (**Open Source**).

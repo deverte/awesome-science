@@ -45,7 +45,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 - [PhysicsOverflow](https://physicsoverflow.org/) - Q&A system for physics.
 - [Scimago Journal & Country Rank](https://www.scimagojr.com/) - Journal and country rankings.
 - [FactCrumbs](https://factcrumbs.com/) - Sourced science and trivia explainers for general readers.
-- [Animal Profiles](https://animalprofiles.com/) - Animal encyclopedia with taxonomy, IUCN Red List status, measurements, diet, habitat and range for 2,873 species and groups (**Proprietary/Free**).
+- [Animal Profiles](https://animalprofiles.com/) - Animal encyclopedia with 2,873 profiles, including 245 fact files with taxonomy, IUCN Red List status, measurements, diet, habitat and range (**Proprietary/Free**).
 
 ## Archives
 

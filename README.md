@@ -44,6 +44,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 
 - [PhysicsOverflow](https://physicsoverflow.org/) - Q&A system for physics.
 - [Scimago Journal & Country Rank](https://www.scimagojr.com/) - Journal and country rankings.
+- [FactCrumbs](https://factcrumbs.com/) - Sourced science and trivia explainers for general readers.
 
 ## Archives
 

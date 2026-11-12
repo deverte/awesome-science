@@ -45,6 +45,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 - [PhysicsOverflow](https://physicsoverflow.org/) - Q&A system for physics.
 - [Scimago Journal & Country Rank](https://www.scimagojr.com/) - Journal and country rankings.
 - [FactCrumbs](https://factcrumbs.com/) - Sourced science and trivia explainers for general readers.
+- [ProfScout](https://profscout.com/) - Search for professors by research field, ranked by topic match and recent publishing activity, from OpenAlex and ORCID data (**Proprietary/Freemium**).
 
 ## Archives
 

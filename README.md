@@ -164,6 +164,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
         - [Armory](https://armory3d.org/) - 3D game engine with full *Blender* integration (**Open Source**).
     - [Godot Engine](https://godotengine.org/) - 2D and 3D game engine (**Open Source**).
 - Chemistry
+    - [Chempirical](https://chempirical.com/) - Browser tools for chemists: a structure editor, a spectrum viewer, NMR prediction, reaction scaling and distillation planning (**Proprietary/Free**).
     - [Quantum ESPRESSO](https://www.quantum-espresso.org/) - Suite for first-principles electronic-structure calculations and materials modeling (**Open Source**).
 - Physics / Engineering
     - [Cirq](https://quantumai.google/cirq) - An open source framework for programming quantum computers (**Open Source**).

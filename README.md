@@ -45,6 +45,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 - [PhysicsOverflow](https://physicsoverflow.org/) - Q&A system for physics.
 - [Scimago Journal & Country Rank](https://www.scimagojr.com/) - Journal and country rankings.
 - [FactCrumbs](https://factcrumbs.com/) - Sourced science and trivia explainers for general readers.
+- [NextJSON](https://nextjson.com/) - Free online nested JSON parser and formatter for inspecting and cleaning research data.
 
 ## Archives
 

@@ -297,6 +297,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
 - [ggplot2](https://ggplot2.tidyverse.org/) - Declarative graphics system for R, part of Tidyverse (**Open Source**).
 - [gnuplot](http://www.gnuplot.info/) - Portable command-line driven graphing utility (**Open Source**).
 - [Grafana](https://grafana.com/) - Multi-platform open source analytics and interactive visualization web application (**Open Source**).
+- [Graticule](https://github.com/SunSinD/Graticule) - Browser and CLI tool that extracts oscilloscope screenshots into CSV waveform data, measurements, and vector plots (**MIT**).
 - [LibreOffice Draw](https://www.libreoffice.org/) - Vector graphical editor based on *Apache OpenOffice Draw* (**Open Source**).
 - [Manim](https://docs.manim.community/en/stable/) - Engine for precise programmatic animations, designed for creating explanatory math videos (community edition) (**Open Source**).
 - [ManimGL](https://3b1b.github.io/manim/index.html) - Engine for precise programmatic animations, designed for creating explanatory math videos (original) (**Open Source**).

@@ -208,6 +208,7 @@ Inspired by [awesome-lists](https://github.com/topics/awesome-lists).
     - [RunMat](https://github.com/runmat-org/runmat) - Open-source numerical computing runtime with MATLAB syntax and automatic GPU acceleration (**Open Source**).
     - [Scilab](https://www.scilab.org/) - Software for numerical computation partially compatible with MATLAB.
     - [Wolfram Language](https://www.wolfram.com/language/) - Mathematical language.
+        - [Wolfram MCP](https://www.wolfram.com/artificial-intelligence/mcp-service/) - Add computation & knowledge (**Proprietary/Free**).
         - [Wolfram Mathematica](https://www.wolfram.com/mathematica/) - Computer algebra system, official implementation of Wolfram Language (**EULA**).
     - Universal binary formats, languages interaction
         - [WebAssembly (Wasm)](https://webassembly.org/) - Universal inter-language binary format.
